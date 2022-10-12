@@ -1,4 +1,4 @@
-# Changes That Heal
+# The Inner Journey, finding peace within
 
 ## Class Description
 Changes That Heal is an 8-week class that goes through the 5 core symptoms based off 
@@ -75,13 +75,13 @@ Boundaries are how, they are the containers of our Reality. Not only do they pro
 from us.
 
 <iframe src="https://anchor.fm/dgrothman/embed/episodes/CTH---Fall-2022---Class-4---Boundaries-e1or87a" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
-#### [Class 5 - Self Care](/changesthatheal/C5-SelfCare/DifficultyAknowledingNeedsWants/)
+#### [Class 5 - Needs & Wants](/changesthatheal/C5-SelfCare/DifficultyAknowledingNeedsWants/)
 Knowing our needs and wants is a pivotal step in creating connection in relationships, as well
 as balancing that share of their needs and wants along with your own needs and wants. This in
 conjunction with bringing your own reality and boundaries in moderation into the relationship
 creates the connection that is fulfilling for both people involved.
 
-<iframe src="https://anchor.fm/dgrothman/embed/episodes/CTH---Spring-2022---Class-5---Self-Care-e1gjrrb" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/dgrothman/embed/episodes/CTH---Fall-2022---Class-5---Needs-Wants-e1p5j3p" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>#### [Class 6 - Moderation](/changesthatheal/C6-Moderation/Moderation/)
 #### [Class 6 - Moderation](/changesthatheal/C6-Moderation/Moderation/)
 As you grow you start to become aware of areas that are over-the-top or suppressed both of
 which are not moderate, and then as you bring those areas into healing you will start to notice they get pulled back
