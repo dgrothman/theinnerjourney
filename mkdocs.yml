@@ -1,5 +1,7 @@
 site_name: The Inner Journey... finding peace within
-site_url: https://dgrothman.github.io/changesthatheal/
+site_url: https://theinnerjourney.com
+extra_css:
+  - stylesheets/extra.css
 theme:
   name: material
   palette:
