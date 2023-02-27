@@ -7,9 +7,6 @@ protected against being abused physically, sexually, emotionally, intellectually
 or spiritually. God uses this boundary. We choose to allow or not and practice
 boundaries, choices, limits.
 
-Rev: 3:20 "Behold I stand at the door and knock. If anyone opens the door I will come in and sup
-with him and he with me."
-
 ### None:
 No Boundaries. They have no sense of being abused or of being abusive.
 Such people have trouble saying No or protecting themselves.

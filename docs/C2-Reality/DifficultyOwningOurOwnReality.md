@@ -21,11 +21,7 @@ Codependents have trouble owning all or some parts of these components in the fo
 * **Thinking** - Difficulty knowing what our thoughts are, and if we know, not being able to share them. Also, give **skewed interpretations to incoming data.**
 * **Feelings** - Difficulty knowing what we are feeling, or **feeling overwhelming emotions**
 * **Behavior** - Difficulty being aware of what we do or don't do, or, if we are aware, **difficulty owning our behavior** and its impact on others
-  
-**Not being able to own our reality is experienced at two levels:**
-
-* **Level A** - **I know what my reality is, but I will not tell**. I hide it from other people for fear of being unacceptable.
-* **Level B** - **I do not know what my reality is**. Being level B, is living in delusion (since there is no solid experience of what my reality actually is). I must constrct or "make up" 
-a personal identity and reality out of what I think I might be thinking or feeling, keep silent and not say anything, or try to mirror your feelings and thoughts about me as I can determine them.
 
 *From **Facing Codependence** by Pia Mellody, Andrea Miller, & J. Keith Miller*
+
+[Knowing Your Reality] [Not Knowing Your Reality]

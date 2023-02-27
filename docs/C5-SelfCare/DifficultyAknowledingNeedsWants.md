@@ -46,27 +46,3 @@ onset of the experience of needing or wanting. This shame originally came from c
 experiences, when expressing a need or want was met with abuse by a caregiver - even though
 that memory of abuse has long been "forgotten," is no longer conscious. The adult codependent
 feels as if he or she is terribly selfish to need or want something, however legitimate it may be.
-
-### Where difficulty acknowledging and meeting our wants and needs comes from:
-Children who had all their needs and wants taken care of by their parents instead of
-having the parents teach them to meet their own needs in proper ways usually experience being
-too dependent in adulthood. The parent became enmeshed with the child by taking total care of
-him or her and not explaining anything to or expecting anything of the child.
-
-Children who experienced a parent attacking them for having and expressing needs and
-wants usually become anti dependent upon reaching adulthood.
-
-Children whose needs and wants were ignored or neglected by their caregivers usually
-experience being needless and wantless on reaching adulthood. Such children were not even
-aware of their own needs because they never were identified. As adults, they often work hard to
-take care of the needs of others without giving any attention to their own needs and wants.
-Occasionally at some level these codependents expect that others will reciprocate and take care
-of them. And they often get angry when this doesn't happen. Many times the codependents are
-so needless and wantless that they are not even aware of this expectation. If needs occur to them,
-guilt often ensues. They are completely deluded about the whole question of what they may
-need or want and how to meet those needs and wants directly.
-
-Confusing needs with wants is the experience of children who get everything they want
-but almost nothing of what they need. Often these are the children of wealthy families in which
-the parents didn't meet the children's interactive needs (such as physical nurturing and emotional
-nurturing).

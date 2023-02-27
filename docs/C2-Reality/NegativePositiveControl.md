@@ -5,15 +5,11 @@ tags:
 - Negative Control
 - Positive Control
 ---
-# Negative Control / Positive Control
+# Negative Control Control
 Our frustration and confusion as codependents stem primarily from our
 attempts to control the reality of other people and from letting their reality
 control us... A person’s reality is made up of the body, thinking, feelings,
-and behavior. **“Positive Control” takes place when I determine my own
-reality apart from the reality of others**... As a healthy person I am “in
-control” of my reality, of knowing what it is, embracing it, and expressing it
-when it’s in my best interest to do so. Positive control is recovery - the
-opposite of negative control.
+and behavior. 
 
 **Negative Control of reality happens whenever I give myself
 permission to determine for another person what he or she should look like, or think, feel, or do or not do**.
@@ -32,4 +28,4 @@ participating in negative control**.
 * **Body** - Touching others without permission or being touched
 * **Desires** - Telling what should want, or being told
 
-## We want to allow others to own their own Reality
+## Allow others to own their own behavior
