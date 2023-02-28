@@ -1,7 +1,5 @@
 ---
 title: Why we are afraid to tell people who we are
-tags:
-- Reality
 ---
 # Why we are afraid to tell people who we are
 

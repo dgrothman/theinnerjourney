@@ -1,7 +1,5 @@
 ---
 title: Color Code - Yellow
-tags:
-- ColorCode
 ---
 # Color Code - Yellow
 ## Strengths
@@ -13,16 +11,6 @@ tags:
 * Sees life as an experience to be enjoyed
 * Flashy (racehorse rather then plowhorse)
 * Adventurous and daring
-
-**As a friend**
-
-* Exciting and fun to be with (never dull or boring)
-* Often places friend before family
-* Forgiving of self and others
-* Lively and entertaining
-* Vulnerable, innocent, and trusting
-* Endearing
-* Willing to free up schedule in order to play
 
 ## Limitations
 **As an individual**
@@ -38,16 +26,6 @@ tags:
 * Loud and obnoxious in public places
 * Exaggerates successes and omits unpleasant trusts
 * Unable to confront or face issues
-
-**As a friend**
-
-* Spends most of time discussing own life
-* Shows up at his or her convenience
-* Undependable in a crisis
-* Unwilling to commit to long-term needs of distressed friends
-* Pursues won life regardless of friend’s situations or needs
-* Uncomfortable in painful or distressing environments
-* Makes new friends easily and without guilt, often at the expense of old friends
 
 ## Developing Positive Connections with Yellow
 **Do's**

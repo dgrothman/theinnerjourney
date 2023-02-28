@@ -1,7 +1,5 @@
 ---
 title: Color Code - Blue
-tags:
-    - ColorCode
 ---
 # Color Code - Blue
 ## Strengths
@@ -10,19 +8,10 @@ tags:
 * Sees life as a serious endeavor
 * Appreciates beauty and detail
 * Has a strong aesthetic sense
-* Stable and dependable (plowhorse vs. racehorse)
 * Sincere and emotionally deep
-* Analytically oriented (concerned with why one behaves as she/he does)
+* Analytically oriented
 * High achiever
 * Deep sense of purpose
-
-**As a friend**
-
-* Loyal forever once friendship is established
-* Genuine concern for other person’s well-being
-* Remembers special holidays and promotes celebrations
-* Encouraging in times of trouble
-* Willing to commit time to the relationship
 
 ## Limitations
 **As an individual**
@@ -31,17 +20,6 @@ tags:
 * Smug and self-righteous
 * Controlling and/or envious of others’ success when too too easily obtained
 * Strong perfecting and performance orientation
-
-**As a friend**
-
-* Highly insecure about other’s and approval
-* Feels rejected easily
-* When depressed or depressive, feels it is friend’s job to understand
-* Can be revengeful and bitter is crossed or scarred emotionally
-* Critical of friends’ principles or activities if not similar
-* Expects friends to maintain strong loyalty
-* Wishes friends would communicate more often
-* Rarely playful and spontaneous
 
 ## Developing Positive Connections with Blue
 **Do's**

@@ -27,6 +27,5 @@ theme:
 markdown_extensions:
   - def_list
 plugins:
-  - tags
   - search
   - awesome-pages

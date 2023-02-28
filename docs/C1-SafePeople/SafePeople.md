@@ -1,7 +1,5 @@
 ---
 title: Safe People Are
-tags:
-- Safe People
 ---
 # Safe People Are
 
@@ -11,7 +9,7 @@ tags:
 * People with the ability to accept imperfections in others. This refers to the difference between those who love the outside and those who love the inner self.
 * People who are no stranger to pain, yet are recovering. Those who have suffered spiritually and emotionally can identify with developmental injuries.
 * People who are aware of their own deficits. Those who know their unfinished parts are more likely to be safe with the unfinished parts of others.
-* People who have truth without condemnation. It's easier to entrust our weaknesses to those who love us, and who will "(speak) the truth in love" (Ephesians 4:15).
+* People who have truth without condemnation. It's easier to entrust our weaknesses to those who love us, and who will speak the truth in love
 * People who have grace without license. Attaching to others who see God's grace as leading to greater responsibility helps us to experience grace appropriately.
 * People who bear good fruit in your life. Ask yourself if your relationship with this person has made you more or less loving and responsible. 
 

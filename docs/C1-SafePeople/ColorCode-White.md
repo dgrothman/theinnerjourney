@@ -1,7 +1,5 @@
 ---
 title: Color Code - White
-tags:
-- ColorCode
 ---
 # Color Code - White
 ## Strengths
@@ -13,19 +11,6 @@ tags:
 * Patient with others
 * Kind to animals and people
 * Blends into all situations
-
-**As a friend**
-
-* Patient and enduring through good and bad times
-* Tolerant of unkind behavior
-* Supportive and accepting
-* Listens with empathy
-* Relaxed in most situations
-* Likes most people
-* Liked by most people
-* Compatible with different personalities
-* Enjoys observing others
-* Non-demanding of friendships
 
 ## Limitations
 **As an individual**
@@ -39,15 +24,6 @@ tags:
 * Ambivalent about direction and goals to pursue
 * Often lazy and unwilling to take responsibility to self
 * Resists making commitments
-
-**As a friend**
-
-* Lacks creativity to make suggestions
-* Easily led by others opinions
-* Won’t express honest perspective if controversial
-* Passive
-* Requests extra protection and a lot of support
-* Easily hurt and defeated
 
 ## Developing Positive Connections with White
 **Do's**

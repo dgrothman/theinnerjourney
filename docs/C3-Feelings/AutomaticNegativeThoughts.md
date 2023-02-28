@@ -1,5 +1,5 @@
 # Automatic Negative Thoughts
-### From *Change Your Brain Change Your Life* by Daniel Amen
+*From **Change Your Brain Change Your Life** by Daniel Amen*
 
 “Negative thoughts invade your mind like ants at a picnic.” Nine different ways
 your thoughts lie to you and make situations seem worse than they are.
