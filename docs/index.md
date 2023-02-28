@@ -57,35 +57,47 @@ To receive notifications and information about our upcoming classes please sign 
 <!--End mc_embed_signup-->
 
 ## Class Breakdown
-#### [Class 1 - Safe People](/C1-SafePeople/GroupCourtesies/)
+
+#### [Class 1 - Safe People](/C1-SafePeople/SafePeople/)
+
 We discuss what a safe person is, and how to identify them along with what the characteristics of the
 four different personalities of the color code are.
 
 <iframe src="https://anchor.fm/theinnerjourney/embed/episodes/CTH---Fall-2022---Class-1---Safe-People-e1nrerb" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
-#### [Class 2 - Reality](/C2-Reality/DefiningReality/)
+
+#### [Class 2 - Reality](/C2-Reality/DifficultyOwningOurOwnReality/)
+
 We help define what your reality is made up of and why it is so important as to how you interpret life, we also look at how we use negative control
 to try and change another person's reality, or let them control our reality.
 
 <iframe src="https://anchor.fm/theinnerjourney/embed/episodes/CTH---Fall-2022---Class-2---Reality-e1o680o" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
-#### [Class 3 - Reality Part 2 Feelings](/C3-Feelings/ShameBasedDistortedThinking/)
+
+#### [Class 3 - Reality Part 2 Feelings](/C3-Feelings/AutomaticNegativeThoughts/)
+
 We dig into some more important items about reality, specifically. The Drama Triangle, what it is and how to 
 identify if you are in it. The positive and negative sides of our feelings, and how to identify them, and control them.
 
 <iframe src="https://anchor.fm/theinnerjourney/embed/episodes/CTH---Fall-2022---Class-3---Feelings-e1ogm6m" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 #### [Class 4 - Boundaries](/C4-Boundaries/WhatAreBoundaries/)
+
 Now that we have started to understand how do we protect that, and protect us from forcing that reality onto others?
 Boundaries are how, they are the containers of our Reality. Not only do they protect us, but they also protect others
 from us.
 
 <iframe src="https://anchor.fm/theinnerjourney/embed/episodes/CTH---Fall-2022---Class-4---Boundaries-e1or87a" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 #### [Class 5 - Needs & Wants](/C5-SelfCare/DifficultyAknowledingNeedsWants/)
+
 Knowing our needs and wants is a pivotal step in creating connection in relationships, as well
 as balancing that share of their needs and wants along with your own needs and wants. This in
 conjunction with bringing your own reality and boundaries in moderation into the relationship
 creates the connection that is fulfilling for both people involved.
 
 <iframe src="https://anchor.fm/theinnerjourney/embed/episodes/CTH---Fall-2022---Class-5---Needs-Wants-e1p5j3p" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 #### [Class 6 - Moderation](/C6-Moderation/Moderation/)
+
 As you grow you start to become aware of areas that are over-the-top or suppressed both of
 which are not moderate, and then as you bring those areas into healing you will start to notice they get pulled back
 to a more balanced moderate response.
@@ -93,15 +105,20 @@ Moderation is the balancing piece that ties very closely to your reality and bou
 to give you a sense of your own empowerment and value. 
 
 <iframe src="https://anchor.fm/theinnerjourney/embed/episodes/Fall-2022---Class-6---Moderation-e1pg8ng" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 #### [Class 7 - Self Esteem](/C7-SelfEsteem/TheLie/)
+
 Value is what we all strive for, and in the weeks lesson we dig into the different types and how we can work to keep it within ourselves, as well as becoming aware of when we have placed it outside of ourselves and therefor are trying to control others.
 
 <iframe src="https://anchor.fm/theinnerjourney/embed/episodes/Fall-2022---Class-7---Self-Esteem-e1ppop8" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 #### [Class 8 - Grace, Truth & Time](/C8-GraceTruthTime/GraceTruthTime/)
+
 Now that we have the tools we to work through re-parenting ourselves. These last ingredients are a big help in keeping us moving
 along the journey
 
 <iframe src="https://anchor.fm/theinnerjourney/embed/episodes/Fall-2022---Class-8---Grace--Truth-and-Time-e1q4k5u" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 ## Class Resources
 
 * **[Color Code Personality Test](https://colorcode.com)**
