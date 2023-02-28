@@ -2,7 +2,8 @@
 title: How To Handle Anger
 ---
 # How To Handle Anger
-*From **Good 'n' Angry: How to Handle Your Anger Positively** by Les Carter*
+*From **Good 'n' Angry: How to Handle Your Anger Positively** by Les Carter* 
+
 There is no one correct way to handle anger. Obviously, the circumstances are going to have an influence on how one chooses to deal with anger. There are three general styles in which people can handle anger:
 
 1. **Repressed Anger**

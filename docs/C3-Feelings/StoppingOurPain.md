@@ -2,7 +2,8 @@
 title: Stopping Our Pain
 ---
 # Stopping Our Pain
-*From **The Language of Letting Go** by Melody Beattie*
+*From **The Language of Letting Go** by Melody Beattie*  
+
 There are so many sources of pain in our life. Those of us recovering from adult children and codependency issues frequently have a cesspool of unresolved pain from the past. We have feelings, sometimes from early childhood to the present, that either hurt too much to feel or that we had no support and permission to deal with.
 
 There are other inevitable sources of pain in our life too. There is the sadness and grief that comes when we experience change, even good change, as we let go of one part of our life and begin our journey into the new.
