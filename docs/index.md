@@ -1,4 +1,7 @@
-# The Inner Journey, finding peace within
+---
+title: Information
+---
+# Information
 
 ## Class Description
 The Inner Journey is an 8-week class that goes through the 5 core symptoms based off 
