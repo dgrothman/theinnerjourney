@@ -3,13 +3,13 @@ title: Tools to help you own your own reality
 ---
 # Tools to help you own your own reality
 
-## Who you are
+#### Who you are
 - Your sense of self - Your body, thinking, feeling and behavior.
 
-## Claim it
+#### Claim it
  - learn to do what your parents did not teach. Learn to surface, own, express, and support your own reality. Become aware of your own body, thoughts, feelings, and track your behavior.
 
-## Own it
+#### Own it
 - figure out if you: 
 
 1. know your reality and won’t acknowledge it to anyone
@@ -20,7 +20,7 @@ so is in your best interest. Accept compliments from others.
 and let it go if it doesn’t fit. Your body will let you know if its right. What it is will become true for you.
 This may require professional help.
 
-## Practice
+#### Practice
 - allowing others to have their own reality, even when it conflicts with yours about you.
 Especially when it involves an appraisal of who you are. Get your reality on board and practice letting
 others have theirs, even when it conflicts with yours. Own yours vigorously. Take ownership of your self
@@ -28,7 +28,7 @@ and value your reality. You can only do this if you have good boundaries. Bounda
 separation to resist owning another’s reality about you that doesn’t fit you - when someone is being
 negative about you.
 
-## Be aware
+#### Be aware
 - of others wanting to change your reality or you wanting to change another’s reality to fit
 yours. Exceptions are therapists, sponsors, and others you invite to make comments about your reality.
 
@@ -39,6 +39,6 @@ feelings, or behavior, shame may be bound by the experience about that part of y
 yourself that you have a right to your reality, and that you have a right to verbalize that out to your
 environment if you choose to. Your right to your reality breaks the shame bind.*
 
-## Definition of a Healthy Mature Adult
+#### Definition of a Healthy Mature Adult
 One who can share their reality with me and I with them, without judgement, needing to change, or fix
 them

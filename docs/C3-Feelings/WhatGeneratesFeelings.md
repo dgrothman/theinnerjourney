@@ -1,19 +1,12 @@
 ---
 title: What Generates Feelings?
-tags:
-- Feelings
 ---
 # What Generates Feelings?
 Besides the fact that we now carry feelings induced in us during childhood, the fact that 
-**our emotions are generated from our thoughts** also influences our damaged and exaggerated feeling reality.
- This process of generating feelings from the way we interpret the events around us automatically leads to
-trouble for doependents, because **the experience of being abused damages our thinking**. The process
-of assigning meaning to the events in our lives is skewed and the conclusions we draw are often inaccurate - but
-we don't know it. We believe our thinking is fine. But in fact our emotional responses to other people's
-actions toward us often seem bizarre to them.
+**our emotions are generated from our thoughts** also influences our damaged and exaggerated feeling reality.  
+This process of generating feelings from the way we interpret the events around us automatically leads to trouble for codependents, because **the experience of being abused damages our thinking**. The process of assigning meaning to the events in our lives is skewed and the conclusions we draw are often inaccurate - but we don't know it. We believe our thinking is fine. But in fact our emotional responses to other people's actions toward us often seem bizarre to them.
 
-In the process of generating feelings, we first bring some data into our innter world with one of our five
-senses... We draw conclusions, and interpretations and give meaning to what we heard, saw, tasted, smelled, or felt.
+In the process of generating feelings, we first bring some data into our innter world with one of our five senses... We draw conclusions, and interpretations and give meaning to what we heard, saw, tasted, smelled, or felt.  
 
 Out of this thinking comes our emotions about our thoughts. As a result of our emotions, we choose a behavior...
 

@@ -1,5 +1,8 @@
 # Automatic Negative Thoughts
+
 *From **Change Your Brain Change Your Life** by Daniel Amen*
+
+### Automatic Netagive Thoughts (ANT)
 
 “Negative thoughts invade your mind like ants at a picnic.” Nine different ways
 your thoughts lie to you and make situations seem worse than they are.
@@ -53,6 +56,7 @@ or lazy, then why bother trying to change your behavior? It is as if you have gi
 have even tried. This defeatist attitude can be ruinous for your body.
 
 ### BEWARE of the "red ANTs"
+
 #### Fortune-Telling
 Predicting the worst even though you don’t know what will happen is the hallmark of the fortune
 telling ANT. Examples include: “I just had a biopsy I am sure it is cancer”. Nobody is safe from
