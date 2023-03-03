@@ -15,4 +15,4 @@
 * Be honest
 * Challenge distorted thinking
 
-From **_Changes That Heal_** by Dr. Henry Cloud
+*From **_Changes That Heal_** by Dr. Henry Cloud*
