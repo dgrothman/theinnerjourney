@@ -20,6 +20,8 @@ title: Reality
   * **BEHAVIOR**: What we do and don’t do; how it impacts others.
   * **BODY**: How we look and how our bodies function
 
+<br>
+
 ## Can you own it?
 
 * Codependents often say that they don’t know who they are
@@ -44,14 +46,18 @@ title: Reality
 * We accomplish this by learning to acknowledge, own, express, and support our reality
 * We learn to accept others without judgment.
 
+<br><br>
+
 ## Negative Control
 
 * Our frustration and confusion as codependents stems primarily from our attempts to control the reality of others and from letting others control our reality.
 * Negative control of reality happens when
   * I give myself permission to determine for another person what he or she should look like, think, feel, or do.
   * I allow someone else to determine what I should look like, think, feel, or do.
-* Words of negative control include **should** (guilt trips), **always**, **never**.
+* Words of negative control include **should** (guilt trips), **always**, **never**, **need**.
 * The oppositie of negative control is giving choices to another person.
+
+<br><br>
 
 ## Reasons we refrain from telling others who we are
 
