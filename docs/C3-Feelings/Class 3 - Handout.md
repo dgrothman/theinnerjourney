@@ -158,4 +158,4 @@
   * Where does your shame come from? (society, family, significant other, yourself)
 * Shame heals when shared with another
 * Set positive goals and take responsibility for reformating your thoughts and changing your behaviors
-* Usually is accompanied by Shame
+* Usually is accompanied by Guilt
