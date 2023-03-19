@@ -16,12 +16,29 @@
       * What we choose to do (or not do) as a result of our feelings
 * Our belief system (based on our history and values) affects the way we think, feel, and behave
 * How we process our thoughts impacts where our feelings go (positive or negative) &amp; intensity of them
-  * What we feel is what we feel – cannot change our feelings
-  * We can change our toughts
+  * What we feel is what we feel
+  * We cannot change our feelings
+  * We can change our thoughts
 * We learn to acknowledge it so we can process it
   * Denied feelings are a trigger for inappropriate behavior
   * Unprocessed feelings are stored in our bodies, they dont just dissapear because we choose not to process them
 
+<br><br>
+
+## Tools for Feelings
+
+* Allow yourself to feel them
+  * Let them be as big (or little) and overwhelming/confusing (ugly) as they really are
+* Find the truth
+  * What/who is the source (external or internal)?
+  * Is there an event that triggered it?
+  * Use the True – Not True – Questionable Tool to separate the feelings from the thoughts
+* Talk them out with a safe person
+* Purge them
+  * Journal? Art?
+  * Physical: clean the house, beat up a pillow, break dishes, throw darts at a picture
+  * Express them in a way that does not harm you, others, or valuable property
+  
 <div class="page"></div>
 
 ## Automatic Negative Thoughts
@@ -71,8 +88,6 @@
 | Fear    | Protection / Wisdom | Panic / Paranoia / Helplessness |
 | Guilt   | Values / Integrity | False Guilt / Prolonged Guilt |
 | Shame   | Accountability / Fallibility (Limits) | Carried Shame / Shame Bound |
-
-<br><br>
 
 ## Pain 
 
@@ -144,19 +159,3 @@
 * Shame heals when shared with another
 * Set positive goals and take responsibility for reformating your thoughts and changing your behaviors
 * Usually is accompanied by Shame
-
-<div class="page"></div>
-
-## Tools for Feelings
-
-* Allow yourself to feel them
-  * Let them be as big (or little) and overwhelming/confusing (ugly) as they really are
-* Find the truth
-  * What/who is the source (external or internal)?
-  * Is there an event that triggered it?
-  * Use the True – Not True – Questionable Tool to separate the feelings from the thoughts
-* Talk them out with a safe person
-* Purge them
-  * Journal? Art?
-  * Physical: clean the house, beat up a pillow, break dishes, throw darts at a picture
-  * Express them in a way that does not harm you, others, or valuable property
