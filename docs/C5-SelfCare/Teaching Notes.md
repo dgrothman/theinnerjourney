@@ -36,14 +36,13 @@
     * Too Dependent
       * Aware of needs and wants, and EXPECTS others to meet them
       * Do not take care of them myself
+    * Inter Dependent
+      * Aware of needs and wants
+      * Allows others to meet moderate amount of wants and needs
 
 ## Hand (Motivation)  
 
-$~$
-
-$~$
-
-$~$
+* Knowing my wants and needs allows me to be responsible for what I want to allow 
 
 ## Heart (Tools)  
 
