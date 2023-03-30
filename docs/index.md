@@ -88,7 +88,7 @@ Now that we have started to understand how do we protect that, and protect us fr
 Boundaries are how, they are the containers of our Reality. Not only do they protect us, but they also protect others
 from us.
 
-<iframe src="https://anchor.fm/theinnerjourney/embed/episodes/CTH---Fall-2022---Class-4---Boundaries-e1or87a" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Spring-2023---Class-4---Boundaries-e21cctj" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 #### [Class 5 - Needs & Wants](/C5-SelfCare/DifficultyAknowledingNeedsWants/)
 

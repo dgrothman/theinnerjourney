@@ -74,8 +74,7 @@ allows us to stop taking responsibility for the thoughts, feelings, and behavior
 ### Healthy
   Healthy boundaries are like a door with a doorknob on the inside that we can choose when to open or close.
 With intact flexible internal/ external boundaries people can have intimacy in their lives when they choose but
-are protected against being abused physically, sexually, emotionally, intellectually or spiritually. God uses this
-boundary. We choose to allow or not and practice boundaries, choices, limits.
+are protected against being abused physically, sexually, emotionally, intellectually or spiritually. We choose to allow or not and practice boundaries, choices, limits.
 
 <br><br><br>
 
@@ -87,7 +86,6 @@ intellectually without clear knowledge that they have the right to say, "Stop th
 A codependent with No boundaries not only lacks protection but has not ability to recognize another person's
 right to have boundaries with the codependent. Therefore, they move through other peoples boundaries
 unaware that they are doing something inappropriate. Life crashes in doesn't know own Reality.
-Victim/Abuser/Rescuer
 
 <br><br><br>
 
@@ -135,6 +133,12 @@ conversation by making a comment or changing the subject. Talks over others and 
 right over the answer.
 
 <div class="page"></div>
+
+## Boundary Myths
+
+*From **_Boundaries_** by Dr. Henry Cloud*
+
+(Add Content)
 
 ## Skills For Setting Boundaries
 
