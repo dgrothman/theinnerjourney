@@ -2,9 +2,6 @@
 
 ## Class Intro  
 
-* Reality
-  * defines us, who we are
-  * all about us
 * Boundaries
   * contains us, where we start / stop
   * starts to deal with others and life events
