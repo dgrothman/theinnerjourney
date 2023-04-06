@@ -90,14 +90,14 @@ from us.
 
 <iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Spring-2023---Class-4---Boundaries-e21cctj" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-#### [Class 5 - Needs & Wants](/C5-SelfCare/DifficultyAknowledingNeedsWants/)
+#### [Class 5 - Wants & Needs](/C5-SelfCare/DifficultyAknowledingNeedsWants/)
 
-Knowing our needs and wants is a pivotal step in creating connection in relationships, as well
-as balancing that share of their needs and wants along with your own needs and wants. This in
+Knowing our wants and needs is a pivotal step in creating connection in relationships, as well
+as balancing the share of their needs and wants along with your own needs and wants. This in
 conjunction with bringing your own reality and boundaries in moderation into the relationship
 creates the connection that is fulfilling for both people involved.
 
-<iframe src="https://anchor.fm/theinnerjourney/embed/episodes/CTH---Fall-2022---Class-5---Needs-Wants-e1p5j3p" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Spring-2023---Class-5---Wants--Needs-e21r8ki" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 #### [Class 6 - Moderation](/C6-Moderation/Moderation/)
 
