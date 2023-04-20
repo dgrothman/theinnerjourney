@@ -67,7 +67,7 @@ to give you a sense of your own empowerment and value.
 
 Value is what we all strive for, and in the weeks lesson we dig into the different types and how we can work to keep it within ourselves, as well as becoming aware of when we have placed it outside of ourselves and therefor are trying to control others.
 
-<iframe src="https://anchor.fm/theinnerjourney/embed/episodes/Fall-2022---Class-7---Self-Esteem-e1ppop8" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Spring-2023---Class-7---Self-Esteem-e22mm3c" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 #### [Class 8 - Grace, Truth & Time](/C8-GraceTruthTime/GraceTruthTime/)
 
