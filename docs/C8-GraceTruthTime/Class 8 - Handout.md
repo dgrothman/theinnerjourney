@@ -8,25 +8,25 @@
 
 <br>
 
-## Blessings and Negative Control?
+## Blessings and Negative Control
 
 * Self-Esteem: Where does my value come from
-  * Try to convince others of who we are
-* Reality: When it’s something I did
   * Control what others think of us (argue, rationalize, deny)
+* Reality: When it’s something I did
+  * Try to convince others of who we are
 * Boundaries: When it’s something I want to protect (myself or others)
   * Tell others what to think, feel, do or let others tell us
-* Self-Care: When it’s something for my health: mind, body or spirit
+* Self-Care: When it’s something for me: mind, body or spirit
   * Controlling behavior to “enable mind-reading” then others take care of our needs
 * Moderation: When it’s something from history
-  * all or nothing thinking 
+  * All or nothing, right or wrong
 <br>
 * Self-Fulfilling
-  * The more you believe something or tell yourself something, the more you can find life proving it.
+  * The more you believe or tell yourself something, the more you can find life proving it.
 
 <br>
 
-## Sorting out Good and Bad: Ideal Self vrs Real Self
+## Sorting out Good and Bad: Ideal Self versus Real Self
 
 *From **Changes That Heal** by Dr. Henry Cloud*
 
@@ -51,7 +51,7 @@
   * Bestowing compassion and love towards a person/self and wanting nothing in return
 * The Negative: Complacency
   * Deny existence of a problem. Cannot experience intimacy because lack truth for connection
-* Without Truth free to behave as one wishes regardless if excessive or unacceptable
+* Without TRUTH free to behave as one wishes regardless if excessive or unacceptable
   * “That’s the best I could do”
   * “I can’t help that he reacted that way”
 
@@ -63,7 +63,7 @@
   * Who are we and how does that fit into it
 * “Do I need to clean it up?”
   * Coming up short and struggling with success leads to painful feelings
-* Without Grace quick to judge
+* Without GRACE quick to judge
   * “Should-ing” all over ourselves
 
 <br><br>
@@ -93,7 +93,7 @@
 * Keep thinking the same thoughts when those thoughts don’t help
 * Keep putting yourself in the same unhelpful environment
 * Keep relating to the same unhelpful people
-* Put ore importance on being right than on changing
+* Put more importance on being right than on changing
 
 <br><br><br>
 
