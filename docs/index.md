@@ -1,5 +1,8 @@
 ---
 title: Information
+hide:
+  - navigation
+  - toc
 ---
 # Information
 
@@ -7,8 +10,7 @@ title: Information
 The Inner Journey is an 8-week class that goes through the 5 core symptoms based off 
 ***Facing Codependence** by Pia Mellody, Andrea Miller, & J. Keith Miller*. 
 We work through each symptom and discuss tools and perspectives that help to create a 
-framework for handling life as it comes, rather than being handled by life. It is more than anything
-a safe place to try and experience our reality
+framework for handling life as it comes, rather than being handled by life.
 
 ## Spring Class FULL!
 We are so amazed how quickly the class seats filled up. If you would like to be notified when the next class opens up please sign up for our mailing list below.
@@ -74,7 +76,7 @@ Value is what we all strive for, and in the weeks lesson we dig into the differe
 Now that we have the tools we to work through re-parenting ourselves. These last ingredients are a big help in keeping us moving
 along the journey
 
-<iframe src="https://anchor.fm/theinnerjourney/embed/episodes/Fall-2022---Class-8---Grace--Truth-and-Time-e1q4k5u" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Spring-2023---Class-8---Grace--Truth-and-Time-e233ein" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 ## Mailing List Signup Form
 To receive notifications and information about our upcoming classes please sign up for our mailing list below.
@@ -139,3 +141,4 @@ To receive notifications and information about our upcoming classes please sign 
 * ***_Breaking Free_** by Pia Mellody and Andrea Wells Miller*
 * ***_Searching For Significance_** by Robert S. McGee*
 * **[Imago Dei Ministries](https://www.idmin.org)**
+* ***Theories of Counseling and Pyschotherapy** by Nancy Murdock*
