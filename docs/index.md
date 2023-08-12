@@ -12,9 +12,6 @@ The Inner Journey is an 8-week class that goes through the 5 core symptoms based
 We work through each symptom and discuss tools and perspectives that help to create a 
 framework for handling life as it comes, rather than being handled by life.
 
-## Spring Class FULL!
-We are so amazed how quickly the class seats filled up. If you would like to be notified when the next class opens up please sign up for our mailing list below.
-
 ## Class Breakdown
 
 #### [Class 1 - Safe People](/C1-SafePeople/SafePeople/)
