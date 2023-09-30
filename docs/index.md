@@ -26,8 +26,7 @@ four different personalities of the color code are.
 We help define what your reality is made up of and why it is so important as to how you interpret life, we also look at how we use negative control
 to try and change another person's reality, or let them control our reality.
 
-<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Spring-2023---Class-2---Reality-e20gmge" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
-
+<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Fall-2023---Class-2---Reality-e29vhor" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 #### [Class 3 - Reality Part 2 Feelings](/C3-Feelings/AutomaticNegativeThoughts/)
 
 We dig into some more important items about reality, specifically. The Drama Triangle, what it is and how to 
