@@ -23,9 +23,17 @@ Internal boundaries protect our reality (thoughts, feelings, choices, limits, be
   * Releasing the responsibility of the reality of others
       * Refrain from negative control, projection, and manipulation
 
+<br><br>
+
+## Myths about boundaries
+
+* I am being selfish or disobedient (feelings of guilt or shame)
+* I will hurt others or be hurt by others
+* They are permanent
+
 <div class="page"></div>
 
-<br><br>
+<br>
 
 ## Boundary violations
 
@@ -38,11 +46,7 @@ Internal boundaries protect our reality (thoughts, feelings, choices, limits, be
 * Shaming or patronizing (devaluing of any form)
 * Negative Control: telling someone how they should feel, think, or act
 
-## Myths about boundaries
-
-* I am being selfish or disobedient (feelings of guilt or shame)
-* I will hurt others or be hurt by others
-* They are permanent
+<br>
 
 ## Boundaries are personal
 
@@ -51,6 +55,8 @@ Each person's boundaries will look different from others
   * What feels good? (pursuing joy)
   * What is mine? (knowing your reality)
   * What am I willing to lose or give up?
+
+<br>
 
 ## Barriers to boundaries
 
@@ -64,7 +70,7 @@ Each person's boundaries will look different from others
 
 <div class="page"></div>
 
-<br><br>
+<br>
 
 ## When we don't have boundaries
 
@@ -73,6 +79,8 @@ Each person's boundaries will look different from others
     * Procrastination
     * Self-sabotage
     * Drama
+
+<br>
 
 ## Setting boundaries
 
@@ -88,6 +96,8 @@ Each person's boundaries will look different from others
     * I would like to revisit this later when the energy has dissipated
     * I hear that you think I am  [insert negative stuff]. I would like to think about this because I'm not sure what to do with it
 
+<br>
+
 ## Boundaries and relationships
 
 * We are **RESPONSIBLE** for knowing the impact of our thoughts, feelings, and behaviors on another
@@ -102,23 +112,23 @@ Each person's boundaries will look different from others
 <div class="page"></div>
 
 ## Boundary Sketches  
-### Healthy boundaries  
+#### Healthy boundaries  
 Healthy boundaries are like a house with a door with a doorknob on the inside only seperating us from others
 * We choose when to open the door and let someone in
   * Allows for connection
 * We choose when to leave the door closed
   * Protects ourself from others
-  * Protects others from ourself
-### No boundaries 
+  * Protects others from ourself  
+#### No boundaries  
 No boundaries are like having nothing seperating us from others
   * We do not know when we are being aboused or abusing others
   * Defficult to say "no"
-  * Can be easily taken advantage of 
-### Partial boundaries 
+  * Can be easily taken advantage of  
+#### Partial boundaries  
 Partial boundaries are like having gaps in your "wall" that seperates us from others
   * At certain times and/or with certain people can set limits and protect oneself
-  * At other times and/or with other people may abuse or be abused
-### Walls
+  * At other times and/or with other people may abuse or be abused  
+#### Walls  
 Wall are like having a brick wall with no door isolating us from others
   * Give solid protection but do not allow for connection at any level causing more isolation
   * People may move from one kind of wall to another
@@ -128,8 +138,9 @@ Wall are like having a brick wall with no door isolating us from others
   * Words - talks over people; oblivious to contribution of others
 
 
-### References
+## References
 
+* **Facing Codependency** by Pia Mellody*
 * **Changes that Heal** by Dr. Henry Cloud*  
 * **Boundaries** by Dr. Henry Cloud and Dr. John Townsend*  
 * **Beyond Codependency** by Melody Beattie*  
