@@ -1,3 +1,6 @@
+---
+title: Self Esteem - Handout
+---
 # Self Esteem (Value)
 
 ## What is it?

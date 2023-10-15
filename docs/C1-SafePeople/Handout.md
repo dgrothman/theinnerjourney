@@ -1,5 +1,5 @@
 ---
-title: Safe People Are
+title: Safe People - Handout
 ---
 # Safe People Are
 

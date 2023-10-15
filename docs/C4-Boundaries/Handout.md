@@ -1,3 +1,6 @@
+---
+title: Boundaries - Handout
+---
 # Boundaries
 
 <br><br>

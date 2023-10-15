@@ -1,3 +1,6 @@
+---
+title: Grace, Truth and Time - Handout
+---
 # Grace, Truth and Time
 
 * Are you FINE?

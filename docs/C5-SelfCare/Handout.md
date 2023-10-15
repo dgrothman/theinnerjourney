@@ -1,3 +1,6 @@
+---
+title: Self Care - Handout
+---
 # Wants and Needs (Self Care)
 
 ## What are they?
