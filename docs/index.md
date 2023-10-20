@@ -39,7 +39,7 @@ Now that we have started to understand how do we protect that, and protect us fr
 Boundaries are how, they are the containers of our Reality. Not only do they protect us, but they also protect others
 from us.
 
-<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/episodes/Fall-2023---Class-5---Self-Care-e2aqgcr" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Fall-2023---Class-4---Boundaries-e2aj7u8" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 #### [Class 5 - Self Care](/C5-SelfCare/DifficultyAknowledingNeedsWants/)
 
@@ -48,7 +48,7 @@ as balancing the share of their needs and wants along with your own needs and wa
 conjunction with bringing your own reality and boundaries in moderation into the relationship
 creates the connection that is fulfilling for both people involved.
 
-<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Spring-2023---Class-5---Wants--Needs-e21r8ki" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Fall-2023---Class-5---Self-Care-e2aqgcr" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 #### [Class 6 - Moderation](/C6-Moderation/Moderation/)
 
