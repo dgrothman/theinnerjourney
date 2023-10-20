@@ -39,8 +39,9 @@ Now that we have started to understand how do we protect that, and protect us fr
 Boundaries are how, they are the containers of our Reality. Not only do they protect us, but they also protect others
 from us.
 
-<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Fall-2023---Class-4---Boundaries-e2aj7u8" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
-#### [Class 5 - Wants & Needs](/C5-SelfCare/DifficultyAknowledingNeedsWants/)
+<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/episodes/Fall-2023---Class-5---Self-Care-e2aqgcr" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+#### [Class 5 - Self Care](/C5-SelfCare/DifficultyAknowledingNeedsWants/)
 
 Knowing our wants and needs is a pivotal step in creating connection in relationships, as well
 as balancing the share of their needs and wants along with your own needs and wants. This in
