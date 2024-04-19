@@ -94,3 +94,16 @@ title: Reality - Handout
 * TRUE – NOT TRUE - QUESTIONABLE
   * Use a situation that you are dealing with, and ask yourself questions to find the truth of the situation (this may require a safe person to help give you perspective)  
   * The question you ask yourself is **Is it True, Not True, or Questionable that ...**
+
+## Group Questions
+
+* Which of these would you statements you most relate to?
+  * I don't know my reality and therefore can't share it
+  * I know my reality but can't/won't share it
+  * I know my reality and share it regardless of what others think
+* What part of your reality is hardest for you to own?
+  * Whites tend to struggle with owning their feelings
+  * Blues tend to struggle with owning their thoughts
+  * Reds tend to struggle with owning their behaviors
+  * Yellows tend to struggle with owning their choices
+* Share a example of positive/negative control you experienced this week
