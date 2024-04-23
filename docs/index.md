@@ -19,14 +19,15 @@ framework for handling life as it comes, rather than being handled by life.
 We discuss what a safe person is, and how to identify them along with what the characteristics of the
 four different personalities of the color code are.
 
-<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Fall-2023---Class-1---Safe-People-e29k42e" height="102px" width="600px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Spring-2024---Class-1---Safe-People-e2ioct6" height="102px" width="600px" frameborder="0" scrolling="no"></iframe>
 
 #### [Class 2 - Reality](/C2-Reality/DifficultyOwningOurOwnReality/)
 
 We help define what your reality is made up of and why it is so important as to how you interpret life, we also look at how we use negative control
 to try and change another person's reality, or let them control our reality.
 
-<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Fall-2023---Class-2---Reality-e29vhor" height="102px" width="600px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Spring-2024---Class-2---Reality-e2iodk3" height="102px" width="600px" frameborder="0" scrolling="no"></iframe>
+
 #### [Class 3 - Reality Part 2 Feelings](/C3-Feelings/AutomaticNegativeThoughts/)
 
 We dig into the part of reality we feel, FEELINGS! We look at tools for handling them, how to control them, things to be aware of that we use to try and turn them off, and the positive and negative sides of them.
