@@ -76,18 +76,18 @@ title: Self Esteem - Handout
 
 ## Understanding the Drama Triangle
 
-* The Drama Triange (The 3 faces of victim)
+* The Drama Triangle (The 3 faces of victim)
   * Generates shame
     * through internal interaction or external communication keeps the shame messages going
   * Victim
     * A twisted version of the desire to be innocent and vulnerable
     * Comes from an unconscious need to feel important
     * Becoming helpless 
-    * Deny their problem solving ablities and potential for self-generated value
+    * Deny their problem-solving abilities and potential for self-generated value
     * Making themselves helpless becomes the primary way of avoiding failure
     * Comes across as less than
     * The Persecutor stage looks like resentment
-    * The Rescure stage is done from a less than positioin
+    * The Rescuer stage is done from a less than position
   * Rescuer
     * A twisted version of the desire to nurture and protect
     * Comes from an unconscious need to feel important
@@ -111,7 +111,7 @@ title: Self Esteem - Handout
     * The Rescue stage is also painful and done in anger
   * Rescuer and Persecutor are opposite extremes of victim
   * All roles eventually lead back to victim
-  * Many familys only communicate in this way
+  * Many family's only communicate in this way
   * We all have a starting position
   * We can act out this drama triangle in our everyday relations
   * We can act out this drama triangle internally within our thoughts
@@ -120,11 +120,30 @@ title: Self Esteem - Handout
 ## How do I get out of a drama triangle?
 
 * Become Aware of the drama triangle
-* Take responsiblity for myself (own my reality)
+* Take responsibility for myself (own my reality)
   * Allow myself to have my feelings
   * Allow other to have their feelings
 * Be willing to let go of the drama produced
   * Set boundaries
+
+## Alternative to the Drama Triangle
+
+The Empowerment Dynamic
+  * Generates confidence
+    * through internal interaction or external communication keeps the confidence messages going
+  * Creator
+    * A healthy version of the victim 
+    * focuses on what inspires them
+    * outcome-focused and passion-powered
+    * generates forward energy
+  * Challenger
+    * A healthy version of the persecutor
+    * consciously builds others up
+    * focuses on using the circumstances for growth and learning
+  * Coach
+    * A healthy version of the rescuer
+    * sees the internal creator in others
+    * above all remains supportive and encouraging
 
 <br><br>
 

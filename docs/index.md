@@ -138,3 +138,4 @@ To receive notifications and information about our upcoming classes please sign 
 * ***_Searching For Significance_** by Robert S. McGee*
 * **[Imago Dei Ministries](https://www.idmin.org)**
 * ***Theories of Counseling and Pyschotherapy** by Nancy Murdock*
+* ***The Power of TED** by David Emerald*
