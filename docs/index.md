@@ -65,14 +65,14 @@ to give you a sense of your own empowerment and value.
 
 Self Esteem / Value is what we all strive for, and in the weeks lesson we dig into the different types and how we can work to keep it within ourselves, as well as becoming aware of when we have placed it outside of ourselves and therefor are trying to control others.
 
-<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Fall-2023---Class-7---Self-Esteem-e2bq8ul" height="102px" width="600px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Spring-2024---Class-7---Self-Esteem-e2kj3ke" height="102px" width="600px" frameborder="0" scrolling="no"></iframe>
 
 #### [Class 8 - Grace, Truth & Time](/C8-GraceTruthTime/GraceTruthTime/)
 
 Now that we have the tools we to work through re-parenting ourselves. These last ingredients are a big help in keeping us moving
 along the journey
 
-<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Spring-2023---Class-8---Grace--Truth-and-Time-e233ein" height="102px" width="600px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Spring-2024---Class-8---Grace--Truth--Time-e2kj429" height="102px" width="600px" frameborder="0" scrolling="no"></iframe>
 
 ## Mailing List Signup Form
 To receive notifications and information about our upcoming classes please sign up for our mailing list below.
