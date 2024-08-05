@@ -19,14 +19,15 @@ framework for handling life as it comes, rather than being handled by life.
 We discuss what a safe person is, and how to identify them along with what the characteristics of the
 four different personalities of the color code are.
 
-<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Fall-2023---Class-1---Safe-People-e29k42e" height="102px" width="600px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Spring-2024---Class-1---Safe-People-e2ioct6" height="102px" width="600px" frameborder="0" scrolling="no"></iframe>
 
 #### [Class 2 - Reality](/C2-Reality/DifficultyOwningOurOwnReality/)
 
 We help define what your reality is made up of and why it is so important as to how you interpret life, we also look at how we use negative control
 to try and change another person's reality, or let them control our reality.
 
-<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Fall-2023---Class-2---Reality-e29vhor" height="102px" width="600px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Spring-2024---Class-2---Reality-e2iodk3" height="102px" width="600px" frameborder="0" scrolling="no"></iframe>
+
 #### [Class 3 - Reality Part 2 Feelings](/C3-Feelings/AutomaticNegativeThoughts/)
 
 We dig into the part of reality we feel, FEELINGS! We look at tools for handling them, how to control them, things to be aware of that we use to try and turn them off, and the positive and negative sides of them.
@@ -48,7 +49,7 @@ as balancing the share of their needs and wants along with your own needs and wa
 conjunction with bringing your own reality and boundaries in moderation into the relationship
 creates the connection that is fulfilling for both people involved.
 
-<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Fall-2023---Class-5---Self-Care-e2aqgcr" height="102px" width="600px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Spring-2024---Class-5---Self-Care-e2jlt98" height="102px" width="600px" frameborder="0" scrolling="no"></iframe>
 
 #### [Class 6 - Moderation](/C6-Moderation/Moderation/)
 
@@ -58,20 +59,20 @@ to a more balanced moderate response.
 Moderation is the balancing piece that ties very closely to your reality and boundaries, all three combined 
 to give you a sense of your own empowerment and value. 
 
-<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Fall-2023---Class-6---Moderation-e2b2onc" height="102px" width="600px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Spring-2024---Class-6---Moderation-e2jltcr" height="102px" width="600px" frameborder="0" scrolling="no"></iframe>
 
 #### [Class 7 - Self Esteem](/C7-SelfEsteem/TheLie/)
 
 Self Esteem / Value is what we all strive for, and in the weeks lesson we dig into the different types and how we can work to keep it within ourselves, as well as becoming aware of when we have placed it outside of ourselves and therefor are trying to control others.
 
-<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Fall-2023---Class-7---Self-Esteem-e2bq8ul" height="102px" width="600px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Spring-2024---Class-7---Self-Esteem-e2kj3ke" height="102px" width="600px" frameborder="0" scrolling="no"></iframe>
 
 #### [Class 8 - Grace, Truth & Time](/C8-GraceTruthTime/GraceTruthTime/)
 
 Now that we have the tools we to work through re-parenting ourselves. These last ingredients are a big help in keeping us moving
 along the journey
 
-<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Spring-2023---Class-8---Grace--Truth-and-Time-e233ein" height="102px" width="600px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Spring-2024---Class-8---Grace--Truth--Time-e2kj429" height="102px" width="600px" frameborder="0" scrolling="no"></iframe>
 
 ## Mailing List Signup Form
 To receive notifications and information about our upcoming classes please sign up for our mailing list below.
@@ -137,3 +138,4 @@ To receive notifications and information about our upcoming classes please sign 
 * ***_Searching For Significance_** by Robert S. McGee*
 * **[Imago Dei Ministries](https://www.idmin.org)**
 * ***Theories of Counseling and Pyschotherapy** by Nancy Murdock*
+* ***The Power of TED** by David Emerald*
