@@ -10,12 +10,12 @@ title: Safe People Are
 * People who are no stranger to pain, yet are recovering. Those who have suffered spiritually and emotionally can identify with developmental injuries.
 * People who are aware of their own deficits. Those who know their unfinished parts are more likely to be safe with the unfinished parts of others.
 * People who have truth without condemnation. It's easier to entrust our weaknesses to those who love us, and who will speak the truth in love
-* People who have grace without license. Attaching to others who see God's grace as leading to greater responsibility helps us to experience grace appropriately.
+* People who have grace without license. Attaching to others who see grace as leading to greater responsibility helps us to experience grace appropriately.
 * People who bear good fruit in your life. Ask yourself if your relationship with this person has made you more or less loving and responsible. 
 
 Break the dysfunctional family rules of "don't talk, don't trust, don't feel", by actively seeking a confessional relationship. Generally, a "safe" person will give you permission (when you can't give it to yourself) to be human. Safety is measured by our ability to be who we really are with a particular person or in a certain setting - a place where we can talk about our fears, our feelings, our experiences without being judged or shamed.
 
-There are safe people and safe places. To find them you must take a risk. Share; check; share. God created us not to be dependent or independent, but <u>interdependent</u>. Don't expect perfection from yourself or from others, but look for a realistic "good enough."
+There are safe people and safe places. To find them you must take a risk. Share; check; share. We are created not to be dependent or independent, but <u>interdependent</u>. Don't expect perfection from yourself or from others, but look for a realistic "good enough."
 
 **Whatever is unconfessed is beyond the reach of healing. The isolated injury that stays hidden feels "bad." The injury that is connected feels loved.**
 
