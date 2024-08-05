@@ -26,7 +26,7 @@ title: Reality - Handout
 
 * Codependents often say that they don’t know who they are
 * Being aware of the four areas of our Reality gives us a sense of who we are
-* The Inner Journey is about accurately experiencing and sharing your personal envionment 
+* The Inner Journey is about accurately experiencing and sharing your personal environment 
 * Difficulty owning your reality means
   * Struggling to experience who you are, and share that with others
     * This can occur in any or all of the four areas (thinking, feeling behavior, body)
@@ -55,7 +55,7 @@ title: Reality - Handout
   * I give myself permission to determine for another person what he or she should look like, think, feel, or do.
   * I allow someone else to determine what I should look like, think, feel, or do.
 * Words of negative control include **should** (guilt trips), **always**, **never**, **need**.
-* The oppositie of negative control is giving choices to another person.
+* The opposite of negative control is giving choices to another person.
 
 <br><br>
 
