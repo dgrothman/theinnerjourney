@@ -49,8 +49,8 @@ title: Feelings - Handout
 *from **Change Your Brain Change Your Life** by Daniel Amen*
 
 * Negative thoughts invade your mind like ants at a picnic
-  * When you notice an ANT enter your mind, acknowlege it and talk back to it
-  * When you hear your self talk use an ANT, stop and correct yourself
+  * When you notice an ANT enter your mind, acknowledge it and talk back to it
+  * When you hear yourself talk use an ANT, stop and correct yourself
 * All or Nothing
   * Everything is all good or all bad; same as black and white thinking
   * One event/moment doesn’t define the entirety
@@ -166,5 +166,4 @@ title: Feelings - Handout
 ## Group Questions
 * What feeling is hardest for you to process?
 * What ANT do you struggle with the most?
-* Share an example of how changing your thinking leads to a change in your feelings
 * What are some ways you have learned to process/avoid your feelings?
