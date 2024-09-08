@@ -19,7 +19,7 @@ framework for handling life as it comes, rather than being handled by life.
 We discuss what a safe person is, and how to identify them along with what the characteristics of the
 four different personalities of the color code are.
 
-<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Spring-2024---Class-1---Safe-People-e2ioct6" height="102px" width="600px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Fall-2024---Class-1---Safe-People-e2o54e0" height="102px" width="600px" frameborder="0" scrolling="no"></iframe>
 
 #### [Class 2 - Reality](/C2-Reality/DifficultyOwningOurOwnReality/)
 
