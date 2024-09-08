@@ -10,7 +10,7 @@ title: Self Care - Handout
 * Needs are defined as the basic needs that are required to survive
     * All people have dependency needs
     * Adults are responsible for knowing how to address each need
-    * Some needs like phsical nurturing or emotional nurturing can only be met through interaction with another person
+    * Some needs like physical nurturing or emotional nurturing can only be met through interaction with another person
 * Wants are the preferences, items or goals we look to include in our life
     * Some wants are large and shape many life choices and direction 
       * "I want to be married to this person"
@@ -41,7 +41,7 @@ title: Self Care - Handout
 
 * Sharing our Reality and Boundaries in a relationship allows us to connect with the other person, which is a innate need we all have
 * There are three ways that sharing of our Reality and Boundaries can look
-  * Inter-Dependent
+  * Interdependent
 <br><br><br><br>
     * Two overlapping circles
       * Each circle has portions that are seperate
@@ -79,7 +79,7 @@ title: Self Care - Handout
 <br><br><br><br>
 * Work on independence
   * Decide what wants and needs you feel you are responsible for meeting
-  * Ask for help identifing what items you can meet yourself
+  * Ask for help identifying what items you can meet yourself
   * Start taking steps to meet those wants and needs yourself
   <br><br><br><br>
 * Work on understanding your wants and needs

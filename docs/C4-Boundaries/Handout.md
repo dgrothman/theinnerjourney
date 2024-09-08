@@ -63,7 +63,7 @@ Each person's boundaries will look different from others
 
 ## Barriers to boundaries
 
-* Our Belief System (history and distored thinking)
+* Our Belief System (history and distorted thinking)
 * Enabling: destructive form of helping
     * We attach ourselves to another's need for us
     * This builds resentment and we feel used or sorry for ourselves
@@ -120,12 +120,12 @@ Healthy boundaries are like a house with a door with a doorknob on the inside on
 * We choose when to open the door and let someone in
   * Allows for connection
 * We choose when to leave the door closed
-  * Protects ourself from others
-  * Protects others from ourself  
+  * Protects us from others
+  * Protects others from us  
 #### No boundaries  
 No boundaries are like having nothing seperating us from others
-  * We do not know when we are being aboused or abusing others
-  * Defficult to say "no"
+  * We do not know when we are being abused or abusing others
+  * Difficult to say "no"
   * Can be easily taken advantage of  
 #### Partial boundaries  
 Partial boundaries are like having gaps in your "wall" that seperates us from others
