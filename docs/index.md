@@ -32,7 +32,7 @@ to try and change another person's reality, or let them control our reality.
 
 We dig into the part of reality we feel, FEELINGS! We look at tools for handling them, how to control them, things to be aware of that we use to try and turn them off, and the positive and negative sides of them.
 
-<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Fall-2023---Class-3---Feelings-e2a7gpn" height="102px" width="600px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Fall-2024---Class-3---Feelings-e2omloq" height="102px" width="600px" frameborder="0" scrolling="no"></iframe>
 
 #### [Class 4 - Boundaries](/C4-Boundaries/WhatAreBoundaries/)
 

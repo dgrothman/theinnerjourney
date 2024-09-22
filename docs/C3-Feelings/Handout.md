@@ -162,8 +162,3 @@ title: Feelings - Handout
 * Shame heals when shared with another
 * Set positive goals and take responsibility for reformating your thoughts and changing your behaviors
 * Usually is accompanied by Guilt
-
-## Group Questions
-* What feeling is hardest for you to process?
-* What ANT do you struggle with the most?
-* What are some ways you have learned to process/avoid your feelings?
