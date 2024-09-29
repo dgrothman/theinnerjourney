@@ -36,11 +36,9 @@ We dig into the part of reality we feel, FEELINGS! We look at tools for handling
 
 #### [Class 4 - Boundaries](/C4-Boundaries/WhatAreBoundaries/)
 
-Now that we have started to understand how do we protect that, and protect us from forcing that reality onto others?
-Boundaries are how, they are the containers of our Reality. Not only do they protect us, but they also protect others
-from us.
+Now that we have started to understand our Reality, how can we protect it and protect ourselves from forcing that reality onto others? Boundaries are the containers of our Reality. Not only do they protect our Reality, but they also contain our Reality.
 
-<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Fall-2023---Class-4---Boundaries-e2aj7u8" height="102px" width="600px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Fall-2024---Class-4---Boundaries-e2p11lo" height="102px" width="600px" frameborder="0" scrolling="no"></iframe>
 
 #### [Class 5 - Self Care](/C5-SelfCare/DifficultyAknowledingNeedsWants/)
 
