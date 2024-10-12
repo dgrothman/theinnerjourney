@@ -57,7 +57,7 @@ to a more balanced moderate response.
 Moderation is the balancing piece that ties very closely to your reality and boundaries, all three combined 
 to give you a sense of your own empowerment and value. 
 
-<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Spring-2024---Class-6---Moderation-e2jltcr" height="102px" width="600px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Fall-2024---Class-5---Moderation-e2pirru" height="102px" width="600px" frameborder="0" scrolling="no"></iframe>
 
 #### [Class 7 - Self Esteem](/C7-SelfEsteem/TheLie/)
 
