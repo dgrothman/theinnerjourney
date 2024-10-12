@@ -89,4 +89,3 @@ title: Moderation - Handout
     * Trust and acceptance of our true selves
 * Love is about knowing someone matters
     * It is free of manipulation
-    * It comes with boundaries and moderation so you can’t love them “too much”
