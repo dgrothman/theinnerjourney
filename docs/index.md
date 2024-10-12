@@ -47,7 +47,7 @@ as balancing the share of their needs and wants along with your own needs and wa
 conjunction with bringing your own reality and boundaries in moderation into the relationship
 creates the connection that is fulfilling for both people involved.
 
-<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Spring-2024---Class-5---Self-Care-e2jlt98" height="102px" width="600px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Fall-2024---Class-5---Self-Care-e2pireq" height="102px" width="600px" frameborder="0" scrolling="no"></iframe>
 
 #### [Class 6 - Moderation](/C6-Moderation/Moderation/)
 
