@@ -32,13 +32,13 @@ to try and change another person's reality, or let them control our reality.
 
 We dig into the part of reality we feel, FEELINGS! We look at tools for handling them, how to control them, things to be aware of that we use to try and turn them off, and the positive and negative sides of them.
 
-<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Fall-2024---Class-3---Feelings-e2omloq" height="102px" width="600px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Spring-2025---Class-3---Feelings-e32670h" height="102px" width="600px" frameborder="0" scrolling="no"></iframe>
 
 #### [Class 4 - Boundaries](/C4-Boundaries/WhatAreBoundaries/)
 
 Now that we have started to understand our Reality, how can we protect it and protect ourselves from forcing that reality onto others? Boundaries are the containers of our Reality. Not only do they protect our Reality, but they also contain our Reality.
 
-<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Fall-2024---Class-4---Boundaries-e2p11lo" height="102px" width="600px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Spring-2025---Class-4---Boundaries-e3266nt" height="102px" width="600px" frameborder="0" scrolling="no"></iframe>
 
 #### [Class 5 - Self Care](/C5-SelfCare/DifficultyAknowledingNeedsWants/)
 
@@ -47,7 +47,7 @@ as balancing the share of their needs and wants along with your own needs and wa
 conjunction with bringing your own reality and boundaries in moderation into the relationship
 creates the connection that is fulfilling for both people involved.
 
-<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Fall-2024---Class-5---Self-Care-e2pireq" height="102px" width="600px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Spring-2025---Class-5---Needs--Wants-e3266sb" height="102px" width="600px" frameborder="0" scrolling="no"></iframe>
 
 #### [Class 6 - Moderation](/C6-Moderation/Moderation/)
 
