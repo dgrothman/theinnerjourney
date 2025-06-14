@@ -55,22 +55,22 @@ As you grow you start to become aware of areas that are over-the-top or suppress
 which are not moderate, and then as you bring those areas into healing you will start to notice they get pulled back
 to a more balanced moderate response.
 Moderation is the balancing piece that ties very closely to your reality and boundaries, all three combined 
-to give you a sense of your own empowerment and value. 
+to give you a sense of your own empowerment and value.
 
-<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Fall-2024---Class-5---Moderation-e2pirru" height="102px" width="600px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Spring-2025---Class-6---Moderation-e34895e" height="102px" width="600px" frameborder="0" scrolling="no"></iframe>
 
 #### [Class 7 - Self Esteem](/C7-SelfEsteem/TheLie/)
 
 Self Esteem / Value is what we all strive for, and in the weeks lesson we dig into the different types and how we can work to keep it within ourselves, as well as becoming aware of when we have placed it outside of ourselves and therefor are trying to control others.
 
-<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Spring-2024---Class-7---Self-Esteem-e2kj3ke" height="102px" width="600px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Spring-2025---Class-7---Self-Esteem--Grace--Truth--Time-e34897d" height="102px" width="600px" frameborder="0" scrolling="no"></iframe>
 
 #### [Class 8 - Grace, Truth & Time](/C8-GraceTruthTime/GraceTruthTime/)
 
 Now that we have the tools we to work through re-parenting ourselves. These last ingredients are a big help in keeping us moving
 along the journey
 
-<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Spring-2024---Class-8---Grace--Truth--Time-e2kj429" height="102px" width="600px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Spring-2025---Class-7---Self-Esteem--Grace--Truth--Time-e34897d" height="102px" width="600px" frameborder="0" scrolling="no"></iframe>
 
 ## Mailing List Signup Form
 To receive notifications and information about our upcoming classes please sign up for our mailing list below.
