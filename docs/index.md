@@ -6,6 +6,14 @@ hide:
 ---
 # Information
 
+## Next Class Announcement
+
+Our Fall 2025 class now has signups open! We have re-arranged our format to condense the classes down to 4 weeks! If you are
+interested in signing up please check out the announcement here:
+https://mailchi.mp/0e11407dc109/changes-that-heal-fall-2022-signups-open-18254165
+or you can just goto the signup form here:
+https://forms.gle/qdLdcHg9jGUC6y4GA
+
 ## Class Description
 The Inner Journey is an 8-week class that goes through the 5 core symptoms based off 
 ***Facing Codependence** by Pia Mellody, Andrea Miller, & J. Keith Miller*. 
