@@ -27,7 +27,7 @@ framework for handling life as it comes, rather than being handled by life.
 We discuss what a safe person is, and how to identify them along with what the characteristics of the
 four different personalities of the color code are.
 
-<iframe src="https://open.spotify.com/episode/6tErqNqFyBXPDaiMnMyFY0?si=9I2KjDW2RgSMF3xIMbtvPA" height="102px" width="600px" frameborder="0" scrolling="no"></iframe>
+[Fall 2025 Class 1 Audio](https://open.spotify.com/episode/6tErqNqFyBXPDaiMnMyFY0?si=9I2KjDW2RgSMF3xIMbtvPA)
 
 #### [Class 2 - Reality](/C2-Reality/DifficultyOwningOurOwnReality/)
 
