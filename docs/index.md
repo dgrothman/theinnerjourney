@@ -6,13 +6,9 @@ hide:
 ---
 # Information
 
-## Next Class Announcement
+## Latest Class (Fall 2025) Audio
 
-Our Fall 2025 class now has signups open! We have re-arranged our format to condense the classes down to 4 weeks! If you are
-interested in signing up please check out the announcement here:
-https://mailchi.mp/0e11407dc109/changes-that-heal-fall-2022-signups-open-18254165
-or you can just goto the signup form here:
-https://forms.gle/qdLdcHg9jGUC6y4GA
+[Fall 2025 Class 1 Audio](https://open.spotify.com/episode/6tErqNqFyBXPDaiMnMyFY0?si=9I2KjDW2RgSMF3xIMbtvPA)
 
 ## Class Description
 The Inner Journey is an 8-week class that goes through the 5 core symptoms based off 
@@ -27,26 +23,18 @@ framework for handling life as it comes, rather than being handled by life.
 We discuss what a safe person is, and how to identify them along with what the characteristics of the
 four different personalities of the color code are.
 
-[Fall 2025 Class 1 Audio](https://open.spotify.com/episode/6tErqNqFyBXPDaiMnMyFY0?si=9I2KjDW2RgSMF3xIMbtvPA)
-
 #### [Class 2 - Reality](/C2-Reality/DifficultyOwningOurOwnReality/)
 
 We help define what your reality is made up of and why it is so important as to how you interpret life, we also look at how we use negative control
 to try and change another person's reality, or let them control our reality.
 
-<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Spring-2025---Class-2---Reality-e316jcc" height="102px" width="600px" frameborder="0" scrolling="no"></iframe>
-
 #### [Class 3 - Reality Part 2 Feelings](/C3-Feelings/AutomaticNegativeThoughts/)
 
 We dig into the part of reality we feel, FEELINGS! We look at tools for handling them, how to control them, things to be aware of that we use to try and turn them off, and the positive and negative sides of them.
 
-<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Spring-2025---Class-3---Feelings-e32670h" height="102px" width="600px" frameborder="0" scrolling="no"></iframe>
-
 #### [Class 4 - Boundaries](/C4-Boundaries/WhatAreBoundaries/)
 
 Now that we have started to understand our Reality, how can we protect it and protect ourselves from forcing that reality onto others? Boundaries are the containers of our Reality. Not only do they protect our Reality, but they also contain our Reality.
-
-<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Spring-2025---Class-4---Boundaries-e3266nt" height="102px" width="600px" frameborder="0" scrolling="no"></iframe>
 
 #### [Class 5 - Self Care](/C5-SelfCare/DifficultyAknowledingNeedsWants/)
 
@@ -54,8 +42,6 @@ Knowing our wants and needs is a pivotal step in creating connection in relation
 as balancing the share of their needs and wants along with your own needs and wants. This in
 conjunction with bringing your own reality and boundaries in moderation into the relationship
 creates the connection that is fulfilling for both people involved.
-
-<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Spring-2025---Class-5---Needs--Wants-e3266sb" height="102px" width="600px" frameborder="0" scrolling="no"></iframe>
 
 #### [Class 6 - Moderation](/C6-Moderation/Moderation/)
 
@@ -65,20 +51,14 @@ to a more balanced moderate response.
 Moderation is the balancing piece that ties very closely to your reality and boundaries, all three combined 
 to give you a sense of your own empowerment and value.
 
-<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Spring-2025---Class-6---Moderation-e34895e" height="102px" width="600px" frameborder="0" scrolling="no"></iframe>
-
 #### [Class 7 - Self Esteem](/C7-SelfEsteem/TheLie/)
 
 Self Esteem / Value is what we all strive for, and in the weeks lesson we dig into the different types and how we can work to keep it within ourselves, as well as becoming aware of when we have placed it outside of ourselves and therefor are trying to control others.
-
-<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Spring-2025---Class-7---Self-Esteem--Grace--Truth--Time-e34897d" height="102px" width="600px" frameborder="0" scrolling="no"></iframe>
 
 #### [Class 8 - Grace, Truth & Time](/C8-GraceTruthTime/GraceTruthTime/)
 
 Now that we have the tools we to work through re-parenting ourselves. These last ingredients are a big help in keeping us moving
 along the journey
-
-<iframe src="https://podcasters.spotify.com/pod/show/theinnerjourney/embed/episodes/Spring-2025---Class-7---Self-Esteem--Grace--Truth--Time-e34897d" height="102px" width="600px" frameborder="0" scrolling="no"></iframe>
 
 ## Mailing List Signup Form
 To receive notifications and information about our upcoming classes please sign up for our mailing list below.
