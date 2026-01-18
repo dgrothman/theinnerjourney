@@ -5,14 +5,18 @@ hide:
   - toc
 ---
 # Information
-
+  
+## New Upcoming Class February 2026
+  
+[New Upcoming Class](https://mailchi.mp/81b42f039e41/changes-that-heal-fall-2022-signups-open-18257689)
+  
 ## Latest Class (Fall 2025) Audio
 
 [Fall 2025 Class 1 Audio](https://open.spotify.com/episode/6tErqNqFyBXPDaiMnMyFY0?si=9I2KjDW2RgSMF3xIMbtvPA)  
 [Fall 2025 Class 2 Audio](https://open.spotify.com/episode/70UKfMrHzWqy3KSNUli0Fp?si=-6yC8DaXSJ-W1e6v5lEKug)  
 
 ## Class Description
-The Inner Journey is an 8-week class that goes through the 5 core symptoms based off 
+The Inner Journey is an 4-week class that goes through the 5 core symptoms based off 
 ***Facing Codependence** by Pia Mellody, Andrea Miller, & J. Keith Miller*. 
 We work through each symptom and discuss tools and perspectives that help to create a 
 framework for handling life as it comes, rather than being handled by life.
