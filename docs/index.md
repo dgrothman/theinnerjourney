@@ -12,8 +12,8 @@ hide:
   
 ## Latest Class (Fall 2025) Audio
 
-[Fall 2025 Class 1 Audio](https://open.spotify.com/episode/6tErqNqFyBXPDaiMnMyFY0?si=9I2KjDW2RgSMF3xIMbtvPA)  
-[Fall 2025 Class 2 Audio](https://open.spotify.com/episode/70UKfMrHzWqy3KSNUli0Fp?si=-6yC8DaXSJ-W1e6v5lEKug)  
+[2026 Q1 Class 1 Audio](https://open.spotify.com/episode/3y8aI01UUH5l5CY6VIJAj6?si=h0RNSk4zQEWln6DR2e5wMA)  
+[2026 Q2 Class 2 Audio](https://open.spotify.com/episode/21UJFpb7bYGOy3ohKxQpOf?si=ozjryE3oSqqvRpaYs0ee4A)  
 
 ## Class Description
 The Inner Journey is an 4-week class that goes through the 5 core symptoms based off 
