@@ -6,9 +6,9 @@ hide:
 ---
 # Information
   
-## New Upcoming Class February 2026
+## New Upcoming Class Fall 2026
   
-[New Upcoming Class](https://mailchi.mp/81b42f039e41/changes-that-heal-fall-2022-signups-open-18257689)
+[New Upcoming Class Signups](https://docs.google.com/forms/d/e/1FAIpQLSdRUdF8JpWYRobGZkdEJ6dw9v0XCpWCj1LrWYW8XL0mgL1Oeg/viewform?usp=dialog)
   
 ## Latest Class (Fall 2025) Audio
 
