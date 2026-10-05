@@ -1,0 +1,66 @@
+---
+import Base from '../../../layouts/Base.astro';
+import StoneStrip from '../../../components/StoneStrip.astro';
+import { TOPICS, type Topic } from '../../../data/topics';
+import { CLASSES } from '../../../data/classes';
+import { TERM, classDate, fmtShort } from '../../../data/site';
+import { resourcesFor } from '../../../data/resources';
+import { articlesFor, articleUrl } from '../../../data/articles';
+
+export function getStaticPaths() {
+  return TOPICS.map((topic) => ({ params: { topic: topic.id }, props: { topic } }));
+}
+const { topic } = Astro.props as { topic: Topic };
+const articles = await articlesFor(topic.id);
+const taught = CLASSES.filter((c) => c.topic === topic.id);
+const books = resourcesFor(topic.id);
+---
+<Base title={topic.name} description={topic.intro} searchable>
+  <div class="page-hero">
+    <div class="blob"></div>
+    <div class="wrap">
+      <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a><span>/</span><a href="/topics/">Topics</a><span>/</span><span>{topic.name}</span></nav>
+      <h1>{topic.name}</h1>
+      <p class="lede">{topic.intro}</p>
+      <StoneStrip current={topic.id} />
+    </div>
+  </div>
+  <div class="wrap two-col">
+    <div>
+      {topic.groups.map((g) => (
+        <section class="group">
+          <h2>{g.name}</h2>
+          <p>{g.blurb}</p>
+          <ul class="articles">
+            {articles.filter((a) => a.data.group === g.name).map((a) => (
+              <li><a href={articleUrl(a)}><b>{a.data.title}</b>{a.data.summary && <span>{a.data.summary}</span>}</a></li>
+            ))}
+          </ul>
+        </section>
+      ))}
+    </div>
+    <aside class="aside" data-pagefind-ignore>
+      {taught.length > 0 && (
+        <div class="box">
+          <h3>Taught in</h3>
+          <ul>
+            {taught.map((c) => (
+              <li><a href={`/class/${c.n}/`}>Class {c.n} · {c.title}</a>{TERM && <span class="tag">{fmtShort(classDate(TERM, c.n))}</span>}</li>
+            ))}
+          </ul>
+        </div>
+      )}
+      {books.length > 0 && (
+        <div class="box">
+          <h3>Go deeper</h3>
+          <ul>
+            {books.map((b) => (
+              <li>{b.url ? <a href={b.url}>{b.title}</a> : <i>{b.title}</i>}{b.by && <span class="tag">{b.by}</span>}</li>
+            ))}
+          </ul>
+          <p style="margin-top:12px;font-size:14px"><a href="/resources/">All resources →</a></p>
+        </div>
+      )}
+    </aside>
+  </div>
+</Base>

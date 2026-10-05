@@ -1,0 +1,35 @@
+---
+import { TERM, classDate, lastClass, fmtLong, fmtMonthDay } from '../data/site';
+
+// Rendered at build time; the inline script also flips to "coming soon" once the term has ended,
+// in case nobody rebuilds the site between terms.
+const ended = TERM ? lastClass(TERM).getTime() + 86_400_000 : 0;
+---
+{TERM && (
+  <aside class="next-card" aria-label="Next class" data-ends={ended}>
+    <p class="kicker">Next class · {TERM.name}</p>
+    <h2>Starts {fmtLong(classDate(TERM, 1))}</h2>
+    <dl>
+      <div><dt>When</dt><dd>{TERM.weekday}, {TERM.time}<br />{fmtMonthDay(classDate(TERM, 1))} – {fmtMonthDay(lastClass(TERM))} ({TERM.weeks} weeks)</dd></div>
+      <div><dt>Where</dt><dd><a href={TERM.location.mapsUrl}>{TERM.location.name && <>{TERM.location.name}<br /></>}{TERM.location.street}<br />{TERM.location.city}</a></dd></div>
+      <div><dt>Cost</dt><dd>Free</dd></div>
+    </dl>
+    <a class="btn btn-light" href={TERM.signupUrl}>Sign up for {TERM.name}</a>
+    <small>Seats are limited.</small>
+  </aside>
+)}
+<aside class="next-card" aria-label="Next class" data-soon hidden={TERM ? true : undefined}>
+  <p class="kicker">Next class</p>
+  <h2>New dates coming soon</h2>
+  <p class="note">We run the class a few times a year. Join the mailing list and we'll email you when the next one is scheduled.</p>
+  <a class="btn btn-light" href="/#join">Join the mailing list</a>
+</aside>
+<script is:inline>
+  (function () {
+    var c = document.querySelector('.next-card[data-ends]');
+    if (c && Date.now() > Number(c.getAttribute('data-ends'))) {
+      c.hidden = true;
+      document.querySelector('.next-card[data-soon]').hidden = false;
+    }
+  })();
+</script>

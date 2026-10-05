@@ -1,0 +1,31 @@
+---
+import Base from '../../layouts/Base.astro';
+import NextClassCard from '../../components/NextClassCard.astro';
+import { CLASSES } from '../../data/classes';
+import { TERM, classDate, fmtShort } from '../../data/site';
+---
+<Base title={TERM ? `${TERM.name} classes` : 'Classes'} description="The six weekly classes, with handouts, audio and reading for each week.">
+  <div class="page-hero">
+    <div class="blob"></div>
+    <div class="wrap">
+      <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a><span>/</span><span>This term</span></nav>
+      <h1>{TERM ? TERM.name : 'The six classes'}</h1>
+      <p class="lede">{TERM ? `${TERM.weekday}, ${TERM.time}. Each class page has its handout, audio and the week's reading.` : "Each class page has its handout, audio and the week's reading."}</p>
+    </div>
+  </div>
+  <div class="wrap two-col">
+    <ol class="schedule">
+      {CLASSES.map((c) => (
+        <li>
+          <a href={`/class/${c.n}/`}>
+            <span class="num">{c.n}</span>
+            <span class="date">{TERM ? fmtShort(classDate(TERM, c.n)) : `Week ${c.n}`}</span>
+            <span class="t">{c.title}</span>
+            <span class="arrow" aria-hidden="true">→</span>
+          </a>
+        </li>
+      ))}
+    </ol>
+    <div><NextClassCard /></div>
+  </div>
+</Base>

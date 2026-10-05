@@ -1,0 +1,24 @@
+---
+import Base from '../../layouts/Base.astro';
+import { TOPICS } from '../../data/topics';
+import { articlesFor } from '../../data/articles';
+
+const counts = await Promise.all(TOPICS.map(async (t) => (await articlesFor(t.id)).length));
+---
+<Base title="Topics" description="The five core symptoms: Reality, Boundaries, Self Care, Moderation and Self Esteem.">
+  <div class="page-hero">
+    <div class="blob"></div>
+    <div class="wrap">
+      <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a><span>/</span><span>Topics</span></nav>
+      <h1>The five core symptoms</h1>
+      <p class="lede">Each stone in our logo is one area we work through. Start anywhere.</p>
+    </div>
+  </div>
+  <div class="wrap">
+    <ul class="topic-cards">
+      {TOPICS.map((t, i) => (
+        <li><a href={`/topics/${t.id}/`}><b>{t.name}</b><span>{t.short}</span><small>{counts[i]} articles →</small></a></li>
+      ))}
+    </ul>
+  </div>
+</Base>

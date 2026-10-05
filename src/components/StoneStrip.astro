@@ -1,0 +1,8 @@
+---
+import { TOPICS } from '../data/topics';
+interface Props { current?: string }
+const { current } = Astro.props;
+---
+<nav class="stone-strip" aria-label="Five core symptoms">
+  {TOPICS.map((t) => <a href={`/topics/${t.id}/`} aria-current={t.id === current ? 'page' : undefined}>{t.name}</a>)}
+</nav>

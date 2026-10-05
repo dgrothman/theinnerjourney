@@ -1,0 +1,44 @@
+---
+import { getCollection, render } from 'astro:content';
+import Base from '../../../layouts/Base.astro';
+import { topicById } from '../../../data/topics';
+import { CLASSES } from '../../../data/classes';
+import { articlesFor, articleUrl, slugOf, type Article } from '../../../data/articles';
+
+export async function getStaticPaths() {
+  const all = await getCollection('articles');
+  return all.map((article) => ({ params: { topic: article.data.topic, slug: slugOf(article) }, props: { article } }));
+}
+const { article } = Astro.props as { article: Article };
+const { Content } = await render(article);
+const topic = topicById(article.data.topic);
+const siblings = await articlesFor(topic.id);
+const i = siblings.findIndex((a) => a.id === article.id);
+const prev = siblings[i - 1];
+const next = siblings[i + 1];
+const slug = slugOf(article);
+const taught = CLASSES.filter((c) => c.reading.includes(slug) && c.topic === topic.id);
+---
+<Base title={article.data.title} description={article.data.summary ?? `${article.data.title}: part of ${topic.name} on The Inner Journey.`} searchable>
+  <div class="wrap article">
+    <article>
+      <nav class="crumbs" aria-label="Breadcrumb" data-pagefind-ignore><a href="/">Home</a><span>/</span><a href={`/topics/${topic.id}/`}>{topic.name}</a><span>/</span><span>{article.data.group}</span></nav>
+      <h1>{article.data.title}</h1>
+      <div class="meta" data-pagefind-ignore>
+        <a class="pill" href={`/topics/${topic.id}/`}>{topic.name} · {article.data.group}</a>
+        {taught.map((c) => <a class="pill" href={`/class/${c.n}/`}>Class {c.n}</a>)}
+      </div>
+      <div class="prose"><Content /></div>
+      <nav class="pager" aria-label={`More in ${topic.name}`} data-pagefind-ignore>
+        {prev ? <a href={articleUrl(prev)}><small>← Previous</small><b>{prev.data.title}</b></a> : <a href={`/topics/${topic.id}/`}><small>← Back to</small><b>{topic.name}</b></a>}
+        {next && <a class="next" href={articleUrl(next)}><small>Next</small><b>{next.data.title} →</b></a>}
+      </nav>
+    </article>
+    <aside class="toc" data-pagefind-ignore>
+      <h2>In {topic.name}</h2>
+      <ol>
+        {siblings.map((a) => <li><a href={articleUrl(a)} aria-current={a.id === article.id ? 'page' : undefined}>{a.data.title}</a></li>)}
+      </ol>
+    </aside>
+  </div>
+</Base>

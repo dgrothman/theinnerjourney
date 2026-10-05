@@ -1,0 +1,88 @@
+---
+import Base from '../layouts/Base.astro';
+import NextClassCard from '../components/NextClassCard.astro';
+import JoinForm from '../components/JoinForm.astro';
+import Spiral from '../components/Spiral.astro';
+import { TERM } from '../data/site';
+import { TOPICS } from '../data/topics';
+
+const faqs = [
+  ['Is it really free?', "Yes. There's no cost for the class, the handouts or the audio."],
+  ['Do I need to read the book first?', 'No. Everything is taught in class. The book list is there if you want to go deeper.'],
+  ['Will I have to share in front of people?', 'Only if you want to. Small groups are a place to listen as much as to talk.'],
+  ['Is this therapy?', "No. It's a class with peer small groups. It works well alongside counseling but doesn't replace it."],
+  ['What if I miss a week?', 'Each class has its handout and audio recording on this site, so you can catch up and come back the next week.'],
+];
+---
+<Base>
+  <section class="hero">
+    <div class="blob"></div>
+    <div class="wrap hero-grid">
+      <div>
+        <p class="kicker">A free six-week class · Las Vegas</p>
+        <h1>Handle life as it comes, <em>instead of being handled by it.</em></h1>
+        <p class="lede">The Inner Journey walks through the five core symptoms from <i>Facing Codependence</i> by Pia Mellody. Each week has an hour of teaching and an hour in small groups.</p>
+        <div class="actions">
+          <a class="btn btn-primary" href={TERM ? TERM.signupUrl : '#join'}>{TERM ? 'Save a seat' : 'Join the mailing list'}</a>
+          <a class="btn btn-ghost" href="#fit">Is this for me?</a>
+        </div>
+      </div>
+      <NextClassCard />
+    </div>
+  </section>
+
+  <section class="section" id="fit">
+    <div class="wrap">
+      <div class="section-head">
+        <p class="kicker">Is this for me?</p>
+        <h2>For anyone who wants healthier relationships, starting with the one inside.</h2>
+      </div>
+      <div class="fit">
+        <ul>
+          <li><span class="dot"></span><p>You often feel responsible for other people's feelings, or let their moods decide yours.</p></li>
+          <li><span class="dot"></span><p>Saying no is hard, or you say yes and resent it later.</p></li>
+          <li><span class="dot"></span><p>You swing between too much and too little: work, spending, emotion, control.</p></li>
+          <li><span class="dot"></span><p>Your sense of worth rises and falls with how others treat you.</p></li>
+          <li><span class="dot"></span><p>You simply want tools for living with more peace. No diagnosis needed.</p></li>
+        </ul>
+        <div class="evening">
+          <h3>What an evening looks like</h3>
+          <div class="step one"><span class="n">1</span><div><b>Teaching · 1 hour</b><p class="muted">We walk through the week's topic together, with a handout to take home.</p></div></div>
+          <div class="step two"><span class="n">2</span><div><b>Small groups · 1 hour</b><p class="muted">Groups of a few people talk it through and practice. Share as much or as little as you like.</p></div></div>
+          <div class="facts"><span class="pill">Free</span><span class="pill">No prep or reading required</span><span class="pill">20–30 people</span></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <div class="wrap">
+    <section class="stones-band">
+      <p class="kicker">The path</p>
+      <h2>Five core symptoms, one inward path</h2>
+      <p class="intro">Each stone in our logo is one of the five areas we work through. Read any of them now; you don't need to be enrolled.</p>
+      <div class="stones">
+        <Spiral />
+        <ul class="stone-list">
+          {TOPICS.map((t) => (
+            <li><a href={`/topics/${t.id}/`}><span class="s"></span><div><b>{t.name}</b><span>{t.short}</span></div><i aria-hidden="true">→</i></a></li>
+          ))}
+        </ul>
+      </div>
+    </section>
+  </div>
+
+  <section class="section">
+    <div class="wrap faq-grid">
+      <div class="faq">
+        <div class="section-head" style="margin-bottom:24px">
+          <p class="kicker">Questions</p>
+          <h2>Before you come</h2>
+        </div>
+        {faqs.map(([q, a], i) => (
+          <details open={i === 0}><summary>{q}</summary><p>{a}</p></details>
+        ))}
+      </div>
+      <JoinForm />
+    </div>
+  </section>
+</Base>

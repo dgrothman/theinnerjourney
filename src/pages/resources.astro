@@ -1,0 +1,32 @@
+---
+import Base from '../layouts/Base.astro';
+import { TOPICS } from '../data/topics';
+import { resourcesFor } from '../data/resources';
+
+const groups = [
+  { id: 'general' as const, name: 'The whole journey' },
+  ...TOPICS.map((t) => ({ id: t.id, name: t.name })),
+].map((g) => ({ ...g, items: resourcesFor(g.id) })).filter((g) => g.items.length);
+---
+<Base title="Resources" description="Books and tools we draw on in The Inner Journey.">
+  <div class="page-hero">
+    <div class="blob"></div>
+    <div class="wrap">
+      <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a><span>/</span><span>Resources</span></nav>
+      <h1>Resources</h1>
+      <p class="lede">The books and tools the class draws on, grouped by where they help most. None are required.</p>
+    </div>
+  </div>
+  <div class="wrap">
+    {groups.map((g) => (
+      <section class="res-group">
+        <h2>{g.id === 'general' ? g.name : <a href={`/topics/${g.id}/`} style="color:inherit">{g.name}</a>}</h2>
+        <ul class="res-list">
+          {g.items.map((r) => (
+            <li>{r.url ? <a href={r.url}><b>{r.title}</b></a> : <i>{r.title}</i>}{r.by && <span>{r.by}</span>}</li>
+          ))}
+        </ul>
+      </section>
+    ))}
+  </div>
+</Base>

@@ -1,0 +1,73 @@
+---
+import Base from '../../layouts/Base.astro';
+import { CLASSES, handoutUrl, type Session } from '../../data/classes';
+import { topicById } from '../../data/topics';
+import { TERM, classDate, fmtShort } from '../../data/site';
+import { latestRecording, spotifyEmbed, spotifyUrl } from '../../data/audio';
+import { resolveReading, articleUrl } from '../../data/articles';
+
+export function getStaticPaths() {
+  return CLASSES.map((session) => ({ params: { n: String(session.n) }, props: { session } }));
+}
+const { session } = Astro.props as { session: Session };
+const reading = await resolveReading(session.topic, session.reading);
+const audio = latestRecording(session.n);
+const next = CLASSES.find((c) => c.n === session.n + 1);
+const prev = CLASSES.find((c) => c.n === session.n - 1);
+---
+<Base title={`Class ${session.n}: ${session.title}`} description={session.summary} searchable>
+  <div class="wrap">
+    <div class="session-hero">
+      <div>
+        <nav class="crumbs" aria-label="Breadcrumb" data-pagefind-ignore><a href="/">Home</a><span>/</span><a href="/class/">This term</a><span>/</span><span>Class {session.n}</span></nav>
+        <p class="kicker" style="margin-top:14px">Class {session.n} of {CLASSES.length}</p>
+        <h1>{session.title}</h1>
+        <p class="lede">{session.summary}</p>
+        <nav class="weeks" aria-label="Classes" data-pagefind-ignore>
+          {CLASSES.map((c) => <a href={`/class/${c.n}/`} aria-current={c.n === session.n ? 'page' : undefined} aria-label={`Class ${c.n}: ${c.title}`}>{c.n}</a>)}
+        </nav>
+      </div>
+      {TERM && (
+        <div class="when" data-pagefind-ignore><span>{TERM.name}</span><b>{fmtShort(classDate(TERM, session.n))}</b><span>{TERM.time} · {TERM.location.street.split(',')[0]}</span></div>
+      )}
+    </div>
+
+    <div class="session-grid" data-pagefind-ignore>
+      <div class="tile handout">
+        <p class="kicker">Handout</p>
+        <h2>Class {session.n} handout</h2>
+        <p>The notes we work from in class, to keep or print at home.</p>
+        <a class="btn btn-primary" href={handoutUrl(session.n)} download>Download PDF</a>
+      </div>
+      <div class="tile audio">
+        <p class="kicker">Audio</p>
+        {audio ? (
+          <>
+            <h2>Listen to Class {session.n}</h2>
+            <p class="muted">Recorded {audio.term}</p>
+            <iframe src={spotifyEmbed(audio.spotifyEpisode)} title={`Class ${session.n} audio on Spotify`} loading="lazy" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+            <a class="btn btn-light" href={spotifyUrl(audio.spotifyEpisode)}>Open in Spotify</a>
+          </>
+        ) : (
+          <>
+            <h2>Audio coming soon</h2>
+            <p class="muted">The recording is posted after class. Past recordings are on the <a href="/audio/" style="color:inherit">audio page</a>.</p>
+          </>
+        )}
+      </div>
+    </div>
+
+    <section class="reading">
+      <h2>Read this week</h2>
+      <p>From <a href={`/topics/${session.topic}/`}>{topicById(session.topic).name}</a>.</p>
+      <ul class="articles">
+        {reading.map((a) => <li><a href={articleUrl(a)}><b>{a.data.title}</b><span>{topicById(a.data.topic).name} · {a.data.group}</span></a></li>)}
+      </ul>
+    </section>
+
+    <nav class="week-pager" aria-label="Classes" data-pagefind-ignore>
+      {prev ? <a class="btn btn-ghost" href={`/class/${prev.n}/`}>← Class {prev.n} · {prev.title}</a> : <a class="btn btn-ghost" href="/">← About the class</a>}
+      {next && <a class="btn btn-primary" href={`/class/${next.n}/`}>Class {next.n} · {next.title} →</a>}
+    </nav>
+  </div>
+</Base>

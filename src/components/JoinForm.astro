@@ -1,0 +1,20 @@
+---
+import { SITE } from '../data/site';
+---
+<aside class="join" id="join" aria-labelledby="join-h">
+  <h3 id="join-h">Hear about the next class</h3>
+  <p>We email a few times a year, when new dates are set.</p>
+  {SITE.brevoFormAction ? (
+    <form method="POST" action={SITE.brevoFormAction}>
+      <label for="join-name">First name</label>
+      <input id="join-name" name="FIRSTNAME" type="text" autocomplete="given-name" />
+      <label for="join-email">Email</label>
+      <input id="join-email" name="EMAIL" type="email" required autocomplete="email" />
+      <input type="text" name="email_address_check" value="" hidden tabindex="-1" autocomplete="off" />
+      <input type="hidden" name="locale" value="en" />
+      <button class="btn btn-primary" type="submit">Join the list</button>
+    </form>
+  ) : (
+    <p style="margin-top:16px">Signup form coming soon. Ask us at class to be added.</p>
+  )}
+</aside>

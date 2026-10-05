@@ -1,0 +1,33 @@
+---
+import Base from '../layouts/Base.astro';
+import { AUDIO, spotifyEmbed, spotifyUrl } from '../data/audio';
+import { CLASSES } from '../data/classes';
+
+const titleOf = (n: number) => CLASSES.find((c) => c.n === n)?.title;
+---
+<Base title="Class audio" description="Recordings of past Inner Journey classes.">
+  <div class="page-hero">
+    <div class="blob"></div>
+    <div class="wrap">
+      <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a><span>/</span><span>Audio</span></nav>
+      <h1>Class audio</h1>
+      <p class="lede">Missed a week, or want to hear it again? Recordings are posted after each class.</p>
+    </div>
+  </div>
+  <div class="wrap">
+    {AUDIO.map((t) => (
+      <section class="audio-term">
+        <h2>{t.term}</h2>
+        <ul class="audio-list">
+          {t.recordings.map((r) => (
+            <li>
+              <b>Class {r.n}{titleOf(r.n) && ` · ${titleOf(r.n)}`}</b>
+              <iframe src={spotifyEmbed(r.spotifyEpisode)} title={`${t.term} class ${r.n} on Spotify`} loading="lazy" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+              <a href={spotifyUrl(r.spotifyEpisode)}>Open in Spotify</a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))}
+  </div>
+</Base>

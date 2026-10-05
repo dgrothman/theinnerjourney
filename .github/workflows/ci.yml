@@ -4,16 +4,27 @@ on:
     branches:
       - master
 
+permissions:
+  contents: write
+
 jobs:
   build:
-    name: Deploy docs
+    name: Build and deploy site
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-python@v2
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
         with:
-          python-version: 3.x
-      - run: pip install mkdocs-material
-      - run: pip install mkdocs-awesome-pages-plugin
-      - run: pip install git+https://github.com/jldiaz/mkdocs-plugin-tags
-      - run: mkdocs gh-deploy --force
+          version: 9
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile
+      - run: pnpm build
+      # Same target as the old `mkdocs gh-deploy`: the gh-pages branch, so Pages settings stay unchanged.
+      - uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          force_orphan: true
