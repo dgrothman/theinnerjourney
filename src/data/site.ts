@@ -4,9 +4,10 @@ export const SITE = {
   name: 'The Inner Journey',
   tagline: 'Finding Peace Within',
   url: 'https://www.theinnerjourney.training',
-  // Brevo embedded-form action URL (Brevo → Contacts → Forms → Share → HTML).
-  // Empty string hides the signup form and shows an email link instead.
-  brevoFormAction: '',
+  // Brevo "Website – Mailing list" form action (Brevo → Marketing → Forms → Share → Embed → HTML).
+  // Empty string hides the signup form.
+  brevoFormAction:
+    'https://facf17c8.sibforms.com/serve/MUIFAKPJJMoFWbd7lD-pa1SSB-01pD-P0W8naFpmuG0SJSHmiG6oX13-XmauLLKEyQ36IKlBVBziqw5dDA35PrS54xUEnZwJV-aekgBeeyw-_sN_yDc_qUDhJg64CY-UK7J5YV-7O8-32fyzUXWilIYpd7MnpG3kcX5AmzQFZ9qe4VkI8obSmWeSTNWleW7r-TsV_mkWU_mTs_XV5A==',
 };
 
 export interface Term {

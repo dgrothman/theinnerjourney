@@ -292,3 +292,7 @@ a:focus-visible, button:focus-visible, input:focus-visible, summary:focus-visibl
 .search-wrap { --pagefind-ui-scale: 1; --pagefind-ui-primary: var(--terra-700); --pagefind-ui-text: var(--ink); --pagefind-ui-background: var(--cream-hi); --pagefind-ui-border: var(--line); --pagefind-ui-tag: var(--surface); --pagefind-ui-border-radius: 16px; --pagefind-ui-font: var(--font-body); margin-bottom: 48px; }
 
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; scroll-behavior: auto !important; } }
+
+.join-status { margin-top: 6px; font-weight: 600; color: var(--sage-700); }
+.join-status[data-ok="false"] { color: var(--terra-700); }
+.join .btn:disabled { opacity: .6; cursor: progress; }

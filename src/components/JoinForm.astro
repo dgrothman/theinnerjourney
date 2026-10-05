@@ -5,16 +5,43 @@ import { SITE } from '../data/site';
   <h3 id="join-h">Hear about the next class</h3>
   <p>We email a few times a year, when new dates are set.</p>
   {SITE.brevoFormAction ? (
-    <form method="POST" action={SITE.brevoFormAction}>
+    <form id="join-form" method="POST" action={SITE.brevoFormAction}>
       <label for="join-name">First name</label>
-      <input id="join-name" name="FIRSTNAME" type="text" autocomplete="given-name" />
+      <input id="join-name" name="FIRSTNAME" type="text" required maxlength="200" autocomplete="given-name" />
       <label for="join-email">Email</label>
       <input id="join-email" name="EMAIL" type="email" required autocomplete="email" />
       <input type="text" name="email_address_check" value="" hidden tabindex="-1" autocomplete="off" />
       <input type="hidden" name="locale" value="en" />
       <button class="btn btn-primary" type="submit">Join the list</button>
+      <p class="join-status" id="join-status" role="status" aria-live="polite" hidden></p>
     </form>
   ) : (
     <p style="margin-top:16px">Signup form coming soon. Ask us at class to be added.</p>
   )}
 </aside>
+
+<script>
+  // Submit in the background so people stay on the page; without JS the form still posts to Brevo.
+  const form = document.getElementById('join-form') as HTMLFormElement | null;
+  const status = document.getElementById('join-status');
+  form?.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    const button = form.querySelector('button')!;
+    const show = (msg: string, ok: boolean) => {
+      status!.textContent = msg;
+      status!.dataset.ok = String(ok);
+      status!.hidden = false;
+    };
+    button.disabled = true;
+    try {
+      const res = await fetch(form.action + '?isAjax=1', { method: 'POST', body: new FormData(form) });
+      const data = await res.json();
+      if (!res.ok || !data.success) throw new Error();
+      form.replaceChildren(status!);
+      show("Thanks, you're on the list. We'll email you when new dates are set.", true);
+    } catch {
+      button.disabled = false;
+      show("Something went wrong and you weren't added. Please try again.", false);
+    }
+  });
+</script>
