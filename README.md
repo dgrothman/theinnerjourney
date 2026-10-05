@@ -23,4 +23,3 @@ Add recordings to `src/data/audio.ts`. Replace handouts in `public/handouts/clas
 - `src/data/classes.ts` — the six weekly sessions and their reading lists.
 - `src/data/resources.ts` — reading list, tagged by topic.
 - `src/data/redirects.json` — old MkDocs URLs → new pages.
-- `facilitator/` — teaching notes. Not published.
