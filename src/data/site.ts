@@ -17,6 +17,7 @@ export interface Term {
   weekday: string;
   time: string;
   signupUrl: string;
+  signupOpen: boolean;   // false once the term is underway: hides Sign up, points to the mailing list
   location: { name?: string; street: string; city: string; mapsUrl: string };
 }
 
@@ -28,12 +29,15 @@ export const TERM: Term | null = {
   weekday: 'Tuesdays',
   time: '6:15–8:15pm',
   signupUrl: 'https://forms.gle/JpghHjQvYL5mWRKk9',
+  signupOpen: false,
   location: {
     street: '6280 McLeod Dr, Suite 120',
     city: 'Las Vegas, NV 89120',
     mapsUrl: 'https://maps.google.com/?q=6280+McLeod+Dr+Suite+120+Las+Vegas+NV+89120',
   },
 };
+
+export const SIGNUP_OPEN = !!TERM?.signupOpen;
 
 const DAY = 86_400_000;
 

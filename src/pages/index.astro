@@ -3,7 +3,7 @@ import Base from '../layouts/Base.astro';
 import NextClassCard from '../components/NextClassCard.astro';
 import JoinForm from '../components/JoinForm.astro';
 import Spiral from '../components/Spiral.astro';
-import { TERM } from '../data/site';
+import { TERM, SIGNUP_OPEN } from '../data/site';
 import { TOPICS } from '../data/topics';
 
 const faqs = [
@@ -23,7 +23,7 @@ const faqs = [
         <h1>Handle life as it comes, <em>instead of being handled by it.</em></h1>
         <p class="lede">The Inner Journey walks through the five core symptoms from <i>Facing Codependence</i> by Pia Mellody. Each week has an hour of teaching and an hour in small groups.</p>
         <div class="actions">
-          <a class="btn btn-primary" href={TERM ? TERM.signupUrl : '#join'}>{TERM ? 'Save a seat' : 'Join the mailing list'}</a>
+          <a class="btn btn-primary" href={SIGNUP_OPEN ? TERM!.signupUrl : '#join'}>{SIGNUP_OPEN ? 'Save a seat' : 'Join the mailing list'}</a>
           <a class="btn btn-ghost" href="#fit">Is this for me?</a>
         </div>
       </div>
