@@ -3,7 +3,7 @@ import Base from '../../layouts/Base.astro';
 import { CLASSES, handoutUrl, type Session } from '../../data/classes';
 import { topicById } from '../../data/topics';
 import { TERM, classDate, fmtShort } from '../../data/site';
-import { latestRecording, spotifyEmbed, spotifyUrl } from '../../data/audio';
+import { currentRecording, spotifyEmbed, spotifyUrl } from '../../data/audio';
 import { resolveReading, articleUrl } from '../../data/articles';
 
 export function getStaticPaths() {
@@ -11,7 +11,7 @@ export function getStaticPaths() {
 }
 const { session } = Astro.props as { session: Session };
 const reading = await resolveReading(session.topic, session.reading);
-const audio = latestRecording(session.n);
+const audio = currentRecording(session.n);
 const next = CLASSES.find((c) => c.n === session.n + 1);
 const prev = CLASSES.find((c) => c.n === session.n - 1);
 ---

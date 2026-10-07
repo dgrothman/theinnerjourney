@@ -1,4 +1,6 @@
 // Class recordings, newest term first. Add a term block when new audio is posted.
+// Name the current term exactly like TERM.name in site.ts (e.g. 'Fall 2026') so class pages show it.
+import { TERM } from './site';
 
 export interface Recording {
   n: number;           // session number
@@ -21,13 +23,11 @@ export const AUDIO: AudioTerm[] = [
   },
 ];
 
-/** Most recent recording for a session, if any. */
-export function latestRecording(n: number) {
-  for (const t of AUDIO) {
-    const r = t.recordings.find((r) => r.n === n);
-    if (r) return { term: t.term, ...r };
-  }
-  return undefined;
+/** This term's recording for a session, if posted. Older terms stay on the Audio page only. */
+export function currentRecording(n: number) {
+  const t = AUDIO.find((t) => t.term === TERM?.name);
+  const r = t?.recordings.find((r) => r.n === n);
+  return t && r ? { term: t.term, ...r } : undefined;
 }
 
 export const spotifyUrl = (id: string) => `https://open.spotify.com/episode/${id}`;
