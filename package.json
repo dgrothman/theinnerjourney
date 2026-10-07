@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "astro dev",
     "build": "astro build && pagefind --site dist",
-    "preview": "astro preview"
+    "preview": "astro preview",
+    "handouts": "node handouts/build.mjs"
   },
   "dependencies": {
     "@astrojs/sitemap": "3.7.4",
@@ -14,6 +15,7 @@
   "devDependencies": {
     "@astrojs/check": "^0.9.10",
     "pagefind": "1.5.2",
+    "puppeteer-core": "25.12.0",
     "typescript": "^6.0.3"
   }
 }

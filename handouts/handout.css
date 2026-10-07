@@ -1,0 +1,145 @@
+/* The Inner Journey — print stylesheet for class handouts.
+   Tokens mirror branding/tokens.css (authoritative). See BRANDING.md. */
+@font-face { font-family: "Caprasimo"; src: url("fonts/Caprasimo-Regular.ttf"); font-weight: 400; }
+@font-face { font-family: "Figtree"; src: url("fonts/Figtree.ttf"); font-weight: 300 900; font-style: normal; }
+@font-face { font-family: "Figtree"; src: url("fonts/Figtree-Italic.ttf"); font-weight: 300 900; font-style: italic; }
+
+:root {
+  --cream: #f5ead8;
+  --sand: #ebddc5;
+  --ink: #201e1d;
+  --terracotta: #c67139;
+  --terracotta-200: #ffe1d0;
+  --terracotta-700: #8c491a;
+  --terracotta-800: #643312;
+  --sage: #7a8a5e;
+  --sage-200: #e1eecc;
+  --sage-700: #56633f;
+  --neutral-300: #dcd3c4;
+  --neutral-700: #645c50;
+  --neutral-800: #474238;
+}
+
+/* Page header/footer as CSS margin boxes (uses the brand fonts above).
+   Each class file sets its running title: <style>:root { --running: "Class N · Title"; }</style> */
+@page {
+  size: Letter;
+  margin: 0.85in 0.75in 0.65in;
+  @top-left { content: "The Inner Journey"; font-family: Caprasimo; font-size: 12pt; color: #201e1d; padding-left: 27px; background: url("logo-small.svg") no-repeat left 0 bottom 6px / 20px 20px; vertical-align: bottom; margin-bottom: 0.35in; padding-bottom: 6px; border-bottom: 1px solid #dcd3c4; }
+  @top-right { content: var(--running) " · " counter(page) " / " counter(pages); font-family: Figtree; font-size: 9pt; color: #645c50; vertical-align: bottom; margin-bottom: 0.35in; padding-bottom: 8px; border-bottom: 1px solid #dcd3c4; }
+  @bottom-left { content: "theinnerjourney.training"; font-family: Figtree; font-weight: 600; font-size: 9.5pt; color: #8c491a; vertical-align: bottom; padding-bottom: 0.2in; }
+  @bottom-right { content: "dgrothman@gmail.com"; font-family: Figtree; font-size: 9.5pt; color: #645c50; vertical-align: bottom; padding-bottom: 0.2in; }
+}
+
+* { box-sizing: border-box; }
+html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+body {
+  margin: 0;
+  background: #fff;
+  color: var(--ink);
+  font-family: "Figtree", system-ui, sans-serif;
+  font-size: 10.5pt;
+  line-height: 1.42;
+}
+
+/* Cover block — first H1 of the handout */
+.cover {
+  position: relative;
+  overflow: hidden;
+  background: var(--cream);
+  border-radius: 16px;
+  padding: 18px 22px 18px;
+  margin: 0 0 14px;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+.cover::after {
+  content: "";
+  position: absolute;
+  right: -60px; top: -70px;
+  width: 200px; height: 200px;
+  border-radius: 50%;
+  background: var(--terracotta-200);
+}
+.cover .mark { position: relative; z-index: 1; flex: none; width: 54px; height: 54px; }
+.cover .text { position: relative; z-index: 1; }
+.cover .kicker {
+  font-size: 9.5pt; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase;
+  color: var(--terracotta-700); margin-bottom: 2px;
+}
+.cover h1 { margin: 0; font-size: 28pt; line-height: 1.05; }
+.cover .badge {
+  position: relative; z-index: 1; margin-left: auto;
+  background: #fff; color: var(--terracotta-700);
+  font-weight: 600; font-size: 9.5pt; padding: 6px 14px; border-radius: 999px; white-space: nowrap;
+}
+
+h1, h2, h3 { font-family: "Caprasimo", system-ui, sans-serif; font-weight: 400; letter-spacing: 0; }
+h1 { font-size: 22pt; line-height: 1.1; margin: 16px 0 8px; break-after: avoid; }
+h2 { font-size: 15pt; line-height: 1.2; margin: 14px 0 4px; break-after: avoid; }
+h3 { font-size: 12.5pt; margin: 10px 0 2px; break-after: avoid; }
+h4 {
+  font-family: "Figtree", sans-serif; font-weight: 600; font-size: 9.5pt;
+  letter-spacing: 0.1em; text-transform: uppercase; color: var(--terracotta-700);
+  margin: 10px 0 2px; break-after: avoid;
+}
+h1 + h2 { margin-top: 4px; }
+
+p { margin: 4px 0 6px; }
+strong { font-weight: 700; }
+em { font-style: italic; }
+u { text-decoration-color: var(--terracotta); text-decoration-thickness: 2px; text-underline-offset: 2px; }
+a { color: var(--terracotta-700); }
+
+/* Source attribution lines ("*From Facing Codependence ...*") */
+p.source { color: var(--neutral-700); font-size: 9.5pt; margin: 0 0 6px; }
+p.source strong { color: var(--neutral-800); }
+
+/* Round bullets only; terracotta at level 1, sage at level 2, neutral below */
+ul { margin: 2px 0 4px; padding-left: 1.25em; list-style: none; }
+ul > li { position: relative; margin: 1px 0; }
+ul > li::before {
+  content: ""; position: absolute; left: -0.95em; top: 0.52em;
+  width: 0.42em; height: 0.42em; border-radius: 50%; background: var(--terracotta);
+}
+ul ul > li::before { background: var(--sage); }
+ul ul ul > li::before { background: transparent; border: 1.5px solid var(--neutral-700); }
+ol { margin: 2px 0 4px; padding-left: 1.5em; }
+ol > li::marker { color: var(--terracotta-700); font-weight: 600; }
+li > p { margin: 0; }
+li { break-inside: avoid; }
+
+/* Tables: sand header, rounded container, soft row rules */
+table {
+  width: 100%; border-collapse: separate; border-spacing: 0;
+  border-radius: 16px; overflow: hidden; margin: 6px 0 10px;
+  border: 1px solid var(--neutral-300); font-size: 10pt;
+}
+th { background: var(--sand); text-align: left; font-weight: 600; padding: 7px 10px; }
+td { padding: 6px 10px; border-top: 1px solid var(--neutral-300); vertical-align: top; }
+tr { break-inside: avoid; }
+
+blockquote {
+  margin: 8px 0; padding: 10px 16px; background: var(--sand); border-radius: 16px;
+}
+blockquote p { margin: 2px 0; }
+
+hr { border: 0; height: 0; margin: 10px 0; }
+img { max-width: 100%; }
+
+/* Explicit page breaks from the markdown (<div class="page"></div>) */
+div.page { break-after: page; height: 0; }
+
+/* ---- Additions for the HTML sources (handouts/class-N.html) ---- */
+
+/* Exercise prompts with room to write: <ol class="prompts"><li>…</li></ol>.
+   Tune the space per list with style="--write: 0.9in". */
+ol.prompts { --write: 0.7in; }
+ol.prompts > li { min-height: var(--write); margin: 0 0 4px; }
+
+/* Fill-in grids: empty cells get a fixed row height. <table class="grid">… */
+table.grid td { height: 26px; }
+table.grid td:first-child { background: var(--sand); width: 42%; }
+table.grid th:not(:first-child), table.grid td:not(:first-child) { border-left: 1px solid var(--neutral-300); }
+table.grid .narrow { width: 0.45in; text-align: center; }
