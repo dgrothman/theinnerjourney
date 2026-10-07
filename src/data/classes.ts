@@ -46,17 +46,17 @@ export const CLASSES: Session[] = [
   },
   {
     n: 5,
-    title: 'Self Esteem & the Drama Triangle',
-    topic: 'self-esteem',
-    summary: 'Where our sense of value comes from, how to keep it within ourselves, and how the drama triangle pulls us into trying to control others.',
-    reading: ['difficulty-experiencing-self-esteem', 'where-self-esteem-issues-come-from', 'healthy', 'detachment', 'guidelines-for-relationships'],
-  },
-  {
-    n: 6,
     title: 'Moderation & Grace, Truth, Time',
     topic: 'moderation',
     summary: 'Bringing over-the-top and suppressed areas back to balance, and the grace, truth and time that keep us moving along the journey.',
     reading: ['what-is-moderation', 'where-moderation-issues-come-from', 'difficulty-expressing-reality-moderately', 'moderation-toolbox', 'grace-truth-and-time', 'grace', 'truth', 'good-time-bad-time'],
+  },
+  {
+    n: 6,
+    title: 'Self Esteem & the Drama Triangle',
+    topic: 'self-esteem',
+    summary: 'Where our sense of value comes from, how to keep it within ourselves, and how the drama triangle pulls us into trying to control others.',
+    reading: ['difficulty-experiencing-self-esteem', 'where-self-esteem-issues-come-from', 'healthy', 'detachment', 'guidelines-for-relationships'],
   },
 ];
 
