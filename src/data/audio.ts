@@ -15,6 +15,12 @@ export interface AudioTerm {
 
 export const AUDIO: AudioTerm[] = [
   {
+    term: 'Fall 2026',
+    recordings: [
+      { n: 1, title: 'Class 1', spotifyEpisode: '4AvEKJNOxCwejqLuFvIWq5' },
+    ],
+  },
+  {
     term: 'Q1 2026',
     recordings: [
       { n: 1, title: 'Class 1', spotifyEpisode: '3y8aI01UUH5l5CY6VIJAj6' },
