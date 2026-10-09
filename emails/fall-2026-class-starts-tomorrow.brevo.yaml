@@ -1,0 +1,820 @@
+author: 'Frede, Voigt'
+brandUpdateTime: '2026-09-25T00:00:00.000Z'
+campaignType: classic
+fields: {}
+fieldsHistory: []
+firstLoadSocialIcons: false
+font-fallback: {}
+fonts:
+  - 'https://fonts.googleapis.com/css2?family=Caprasimo&family=Figtree:wght@400;600;700&display=swap'
+id: 366bff20-5a26-483b-867f-95c0a750d147
+name: sib-theme-Announcement
+subject: 'Tomorrow: The Inner Journey begins (Tue Oct 6, 6:15pm)'
+ui:
+  showDeleteOption: false
+user-hash: bab2e3e044b2276d30a985fccbf03dcb
+version: 3.0.1
+body:
+  id: 3464755c-41a8-4285-9add-e6044edc0602
+  type: body
+  layout:
+    320px:
+      width: 320px
+    default:
+      background-color: '#ebddc5'
+      line-height: custom
+      view-in-browser: true
+      wrapper-background-color: '#f5ead8'
+      wrapper-width: 600px
+  content:
+    -
+      content-type: wrapper
+      id: be2317b3-da07-4132-8d6e-85e1329e18bd
+      stylable: false
+      title: Wrapper
+      type: rows
+      layout:
+        320px:
+          width: 320px
+        default:
+          align: center
+          valign: top
+      content:
+        -
+          align: top
+          dist: '12'
+          gutter: 0px
+          id: 598a246e-0350-448e-a288-b4f9462b8c1a
+          moduleName: viewInBrowser
+          stylable: false
+          thumbnail: /assets/img/editor/grid_12.svg
+          title: viewInBrowser
+          type: grid-row
+          layout:
+            320px:
+              display: rows
+              padding-left: 15px
+              padding-right: 15px
+              width: 100%
+            default:
+              align: center
+              background-color: transparent
+              full-width: true
+              padding-bottom: 5px
+              padding-top: 5px
+              valign: top
+              width: 100%
+          content:
+            -
+              id: daca14a5-14f3-4646-adb4-e963db510fd3
+              isEmpty: false
+              label: 'Drop content here'
+              stylable: false
+              title: column
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  padding-left: 0px
+                  padding-right: 0px
+                  valign: top
+              content:
+                -
+                  id: 1c982102-cb53-42b7-ad1f-cd88d296e4e2
+                  stylable: false
+                  thumbnail: /assets/img/editor/element_text.svg
+                  title: Text
+                  type: text
+                  layout:
+                    320px:
+                      width: 100%
+                    default:
+                      align: center
+                      padding-left: 30px
+                      padding-right: 30px
+                      padding-top: 20px
+                      text-align: center
+                      text-valign: top
+                      valign: top
+                      width: 100%
+                  content: '<p><a href="{{ mirror }}"><span style="color:#645c50;font-size:16px;"><u>View in browser</u></span></a></p>'
+        -
+          align: top
+          dist: '12'
+          gutter: 0px
+          id: a4da697e-9f40-4d90-97cd-7aceffec611e
+          moduleName: header
+          stylable: false
+          thumbnail: /assets/img/editor/grid_12.svg
+          title: header
+          type: grid-row
+          layout:
+            320px:
+              display: rows
+              padding-left: 10px
+              padding-right: 10px
+              width: 100%
+            default:
+              align: center
+              background-color: '#7a8a5e'
+              full-width: true
+              padding-bottom: 40px
+              padding-top: 40px
+              valign: top
+              width: 100%
+          content:
+            -
+              id: 760ef81b-ba02-47d3-be25-4c20b651ece6
+              isEmpty: false
+              label: 'Drop content here'
+              stylable: false
+              title: column
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  padding-left: 0px
+                  padding-right: 0px
+                  valign: top
+              content:
+                -
+                  id: 23554141-b694-4e29-9211-f3dc20da9fbd
+                  label: Replace
+                  moduleName: brand-logo
+                  stylable: false
+                  thumbnail: /assets/img/editor/element-logo.png
+                  title: Logo
+                  type: image
+                  layout:
+                    320px:
+                      max-width: 320px
+                      width: 80px
+                    default:
+                      align: center
+                      canvas-height: 80px
+                      dynamic: false
+                      embed: false
+                      image-maxWidth: 80px
+                      imgSize: '3042'
+                      opacity: 1
+                      valign: top
+                      width: 80px
+                  content:
+                    src: 'https://img.mailinblue.com/12068882/images/content_library/original/6a9ded3db5893b9e8c8a26d1.png'
+                -
+                  id: a82303c2-314c-4e95-aab2-b32f21864d6b
+                  stylable: false
+                  thumbnail: /assets/img/editor/element_text.svg
+                  title: Text
+                  type: text
+                  layout:
+                    320px:
+                      width: 100%
+                    default:
+                      align: center
+                      padding-top: 12px
+                      text-align: center
+                      text-valign: top
+                      valign: top
+                      width: 100%
+                  content: '<p style="text-align: center; margin: 0;"><span style="font-family: Caprasimo, Helvetica, Arial, sans-serif; font-weight: 400; font-size: 22px; color: #f5ead8;">The Inner Journey</span></p><p style="text-align: center; margin: 2px 0 0;"><span style="font-size: 15px; color: #e6eadd; letter-spacing: 0.04em;">Finding Peace Within</span></p>'
+                -
+                  id: 7a65a183-0972-47cd-9959-b23a9bc02382
+                  stylable: false
+                  thumbnail: /assets/img/editor/element_text.svg
+                  title: Text
+                  type: text
+                  layout:
+                    320px:
+                      width: 100%
+                    default:
+                      align: center
+                      padding-top: 32px
+                      text-align: center
+                      text-valign: top
+                      valign: top
+                      width: 100%
+                  content: '<p style="text-align: center; margin: 0;"><span style="background-color: #e6eadd; color: #4b5638; border-radius: 999px; padding: 6px 14px; font-family: Figtree, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase;">Fall 2026 · Class 1 of 6</span></p><h1 class="default-heading1" style="text-align: center; margin: 20px 0 0; font-size: 44px; line-height: 1.1;"><span style="color: #f5ead8;">We begin tomorrow.</span></h1><p style="text-align: center; margin: 12px 0 0;"><span style="color: #e6eadd; font-size: 18px;">Tuesday, October 6 · 6:15–8:15pm</span></p>'
+        -
+          align: top
+          dist: '12'
+          gutter: 0px
+          id: 9b449084-e449-4ecb-95d5-ac9001f6db2a
+          moduleName: Greeting
+          stylable: false
+          thumbnail: /assets/img/editor/grid_12.svg
+          title: Greeting
+          type: grid-row
+          layout:
+            320px:
+              display: rows
+              padding-left: 10px
+              padding-right: 10px
+              width: 100%
+            default:
+              align: center
+              padding-bottom: 10px
+              padding-left: 30px
+              padding-right: 30px
+              padding-top: 35px
+              valign: top
+              width: 100%
+          content:
+            -
+              id: 000e15c2-3fc4-4c97-8768-e18ba9f2cbee
+              isEmpty: false
+              label: 'Drop content here'
+              stylable: false
+              title: column
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  padding-left: 0px
+                  padding-right: 0px
+                  valign: top
+              content:
+                -
+                  id: c795c633-5712-45c0-9d3b-e5e471c67fa3
+                  stylable: false
+                  thumbnail: /assets/img/editor/element_text.svg
+                  title: Text
+                  type: text
+                  layout:
+                    320px:
+                      width: 100%
+                    default:
+                      align: left
+                      text-align: left
+                      text-valign: top
+                      valign: top
+                      width: 100%
+                  content: '<p>Hello,<br><br>Just a reminder that our free fall class starts <strong>tomorrow evening</strong>. We''re so glad you''re joining us — come as you are. There''s nothing to prepare and nothing you need to have figured out.<br><br>Our first week is <strong><span style="color: #9c5124;">Safe People &amp; Feelings</span></strong>: what makes a person safe, how to recognize them, and a first look at what our feelings are telling us.</p>'
+        -
+          align: top
+          dist: 4-4-4
+          gutter: 12px
+          id: 10b60dae-2a62-4df8-b1d1-91f24b595551
+          moduleName: Details
+          stylable: false
+          thumbnail: /assets/img/editor/grid_12.svg
+          title: Details
+          type: grid-row
+          layout:
+            320px:
+              display: rows
+              padding-left: 15px
+              padding-right: 15px
+              width: 100%
+            default:
+              align: center
+              padding-bottom: 6px
+              padding-left: 30px
+              padding-right: 30px
+              padding-top: 20px
+              valign: top
+              width: 100%
+          content:
+            -
+              id: 08d29dec-0ced-4dcb-b585-c4bc0a9c3e32
+              isEmpty: false
+              label: 'Drop content here'
+              stylable: false
+              title: column
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  background-color: '#ebddc5'
+                  padding-left: 0px
+                  padding-right: 0px
+                  valign: middle
+              content:
+                -
+                  id: 94bc5d1f-e47c-4e37-9d8d-96b186f390a9
+                  stylable: false
+                  thumbnail: /assets/img/editor/element_text.svg
+                  title: Text
+                  type: text
+                  layout:
+                    320px:
+                      width: 100%
+                    default:
+                      align: left
+                      padding-bottom: 18px
+                      padding-top: 18px
+                      text-align: center
+                      text-valign: top
+                      valign: top
+                      width: 100%
+                  content: '<p style="text-align: center; margin: 0;"><span style="font-family: Figtree, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: #9c5124;">When</span></p><h2 class="default-heading2" style="text-align: center; margin: 6px 0 0;">Tue, Oct 6</h2>'
+            -
+              id: 8a874c7a-3913-43f5-bc62-a1e0decbca00
+              isEmpty: false
+              label: 'Drop content here'
+              stylable: false
+              title: column
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  background-color: '#ebddc5'
+                  padding-left: 0px
+                  padding-right: 0px
+                  valign: middle
+              content:
+                -
+                  id: 260c04f6-efe7-4271-9975-32b0298a6b39
+                  stylable: false
+                  thumbnail: /assets/img/editor/element_text.svg
+                  title: Text
+                  type: text
+                  layout:
+                    320px:
+                      width: 100%
+                    default:
+                      align: left
+                      padding-bottom: 18px
+                      padding-top: 18px
+                      text-align: center
+                      text-valign: top
+                      valign: top
+                      width: 100%
+                  content: '<p style="text-align: center; margin: 0;"><span style="font-family: Figtree, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: #9c5124;">Doors</span></p><h2 class="default-heading2" style="text-align: center; margin: 6px 0 0;">6:15pm</h2>'
+            -
+              id: b6b3075a-76cc-4e3b-afb5-82052cbb7f6b
+              isEmpty: false
+              label: 'Drop content here'
+              stylable: false
+              title: column
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  background-color: '#ebddc5'
+                  padding-left: 0px
+                  padding-right: 0px
+                  valign: middle
+              content:
+                -
+                  id: ea082c92-8470-4fd4-a58c-f19a09eeaefb
+                  stylable: false
+                  thumbnail: /assets/img/editor/element_text.svg
+                  title: Text
+                  type: text
+                  layout:
+                    320px:
+                      width: 100%
+                    default:
+                      align: left
+                      padding-bottom: 18px
+                      padding-top: 18px
+                      text-align: center
+                      text-valign: top
+                      valign: top
+                      width: 100%
+                  content: '<p style="text-align: center; margin: 0;"><span style="font-family: Figtree, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: #9c5124;">Ends</span></p><h2 class="default-heading2" style="text-align: center; margin: 6px 0 0;">8:15pm</h2>'
+        -
+          align: top
+          dist: '12'
+          gutter: 0px
+          id: 7ffe97c8-5f15-46e2-aacd-0c027541b8bd
+          moduleName: Where
+          stylable: false
+          thumbnail: /assets/img/editor/grid_12.svg
+          title: Where
+          type: grid-row
+          layout:
+            320px:
+              display: rows
+              padding-left: 15px
+              padding-right: 15px
+              width: 100%
+            default:
+              align: center
+              padding-bottom: 20px
+              padding-left: 30px
+              padding-right: 30px
+              padding-top: 6px
+              valign: top
+              width: 100%
+          content:
+            -
+              id: 6fce783a-6b66-4577-967f-3adbb797aa70
+              isEmpty: false
+              label: 'Drop content here'
+              stylable: false
+              title: column
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  background-color: '#ebddc5'
+                  padding-left: 0px
+                  padding-right: 0px
+                  valign: top
+              content:
+                -
+                  id: ebb1104f-c7c4-4398-9fc0-9ee6a733fe9d
+                  stylable: false
+                  thumbnail: /assets/img/editor/element_text.svg
+                  title: Text
+                  type: text
+                  layout:
+                    320px:
+                      width: 100%
+                    default:
+                      align: left
+                      padding-bottom: 18px
+                      padding-left: 20px
+                      padding-right: 20px
+                      padding-top: 18px
+                      text-align: left
+                      text-valign: top
+                      valign: top
+                      width: 100%
+                  content: '<p style="margin: 0;"><span style="font-family: Figtree, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: #9c5124;">Where</span></p><p style="margin: 6px 0 0;"><a href="https://maps.google.com/?q=6280+McLeod+Dr+Suite+120+Las+Vegas+NV+89120" style="color: #201e1d; text-decoration: none;"><strong>6280 McLeod Dr, Suite 120</strong><br>Las Vegas, NV 89120</a></p><p style="margin: 6px 0 0;"><a href="https://maps.google.com/?q=6280+McLeod+Dr+Suite+120+Las+Vegas+NV+89120" style="color: #9c5124; font-size: 16px; font-weight: 600; text-decoration: underline;">Get directions</a></p>'
+        -
+          align: top
+          dist: '12'
+          gutter: 0px
+          id: dbf828b9-6d16-48ea-b748-da6580e585ce
+          moduleName: Evening
+          stylable: false
+          thumbnail: /assets/img/editor/grid_12.svg
+          title: Evening
+          type: grid-row
+          layout:
+            320px:
+              display: rows
+              padding-left: 10px
+              padding-right: 10px
+              width: 100%
+            default:
+              align: center
+              padding-bottom: 20px
+              padding-left: 30px
+              padding-right: 30px
+              padding-top: 20px
+              valign: top
+              width: 100%
+          content:
+            -
+              id: 97b869dd-8da7-482c-96c5-5913749fb358
+              isEmpty: false
+              label: 'Drop content here'
+              stylable: false
+              title: column
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  padding-left: 0px
+                  padding-right: 0px
+                  valign: top
+              content:
+                -
+                  id: d28f3469-8821-45e1-9ed3-bfbe0048a0b2
+                  stylable: false
+                  thumbnail: /assets/img/editor/element_text.svg
+                  title: Text
+                  type: text
+                  layout:
+                    320px:
+                      width: 100%
+                    default:
+                      align: left
+                      text-align: left
+                      text-valign: top
+                      valign: top
+                      width: 100%
+                  content: '<h2 class="default-heading2" style="margin: 0;">How the evening works</h2><p style="margin: 16px 0 0;"><strong><span style="color: #9c5124;">1 &nbsp;</span>Teaching · 1 hour</strong><br><span style="color: #645c50; font-size: 18px;">We walk through the week''s topic together as a whole class.</span></p><p style="margin: 14px 0 0;"><strong><span style="color: #7a8a5e;">2 &nbsp;</span>Small groups · 1 hour</strong><br><span style="color: #645c50; font-size: 18px;">Break into small groups to talk it through and practice. Share as much or as little as you like.</span></p>'
+        -
+          align: top
+          dist: '12'
+          gutter: 0px
+          id: 4b4a956b-b942-4b93-ac22-716a91a93dfd
+          moduleName: Schedule
+          stylable: false
+          thumbnail: /assets/img/editor/grid_12.svg
+          title: Schedule
+          type: grid-row
+          layout:
+            320px:
+              display: rows
+              padding-left: 15px
+              padding-right: 15px
+              width: 100%
+            default:
+              align: center
+              padding-bottom: 20px
+              padding-left: 30px
+              padding-right: 30px
+              padding-top: 10px
+              valign: top
+              width: 100%
+          content:
+            -
+              id: 34e821e4-fecc-400f-8e8a-fabef659ea20
+              isEmpty: false
+              label: 'Drop content here'
+              stylable: false
+              title: column
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  background-color: '#7a8a5e'
+                  padding-left: 0px
+                  padding-right: 0px
+                  valign: top
+              content:
+                -
+                  id: 32a98004-6fd8-4f9f-8968-b36dd9074caf
+                  stylable: false
+                  thumbnail: /assets/img/editor/element_text.svg
+                  title: Text
+                  type: text
+                  layout:
+                    320px:
+                      width: 100%
+                    default:
+                      align: left
+                      padding-bottom: 14px
+                      padding-left: 24px
+                      padding-right: 24px
+                      padding-top: 24px
+                      text-align: left
+                      text-valign: top
+                      valign: top
+                      width: 100%
+                  content: '<p style="margin: 0 0 14px;"><span style="font-family: Figtree, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: #e6eadd;">The six weeks ahead</span></p><p style="margin: 0 0 10px;"><strong><span style="color: #f5ead8;">Oct 6 &nbsp;·&nbsp; Safe People &amp; Feelings</span></strong> &nbsp;<span style="background-color: #f5ead8; color: #4b5638; border-radius: 999px; padding: 2px 10px; font-size: 12px; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase;">Tomorrow</span></p><p style="margin: 0 0 10px;"><span style="color: #e6eadd;">Oct 13 &nbsp;·&nbsp; Reality</span></p><p style="margin: 0 0 10px;"><span style="color: #e6eadd;">Oct 20 &nbsp;·&nbsp; Boundaries</span></p><p style="margin: 0 0 10px;"><span style="color: #e6eadd;">Oct 27 &nbsp;·&nbsp; Self Care</span></p><p style="margin: 0 0 10px;"><span style="color: #e6eadd;">Nov 3 &nbsp;·&nbsp; Self Esteem &amp; the Drama Triangle</span></p><p style="margin: 0 0 10px;"><span style="color: #e6eadd;">Nov 10 &nbsp;·&nbsp; Moderation &amp; Grace, Truth, Time</span></p>'
+        -
+          align: top
+          dist: '12'
+          gutter: 0px
+          id: 86fd225f-3f57-4350-acd3-5648f5a1097b
+          moduleName: CTA
+          stylable: false
+          thumbnail: /assets/img/editor/grid_12.svg
+          title: CTA
+          type: grid-row
+          layout:
+            320px:
+              display: rows
+              padding-left: 10px
+              padding-right: 10px
+              width: 100%
+            default:
+              align: center
+              padding-bottom: 10px
+              padding-left: 30px
+              padding-right: 30px
+              padding-top: 15px
+              valign: top
+              width: 100%
+          content:
+            -
+              id: 29a403d1-edb6-4477-b578-6f0753e4a09e
+              isEmpty: false
+              label: 'Drop content here'
+              stylable: false
+              title: column
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  padding-left: 0px
+                  padding-right: 0px
+                  valign: top
+              content:
+                -
+                  id: 31823e40-b22c-4515-9a8f-3380721d3183
+                  stylable: false
+                  thumbnail: /assets/img/editor/element_text.svg
+                  title: Text
+                  type: text
+                  layout:
+                    320px:
+                      width: 100%
+                    default:
+                      align: left
+                      text-align: left
+                      text-valign: top
+                      valign: top
+                      width: 100%
+                  content: '<p>Notes, handouts and past class audio live on our class site:</p><p style="margin: 18px 0 0;"><a href="https://www.theinnerjourney.training" style="display: inline-block; background-color: #c67139; color: #ffffff; border-radius: 999px; padding: 14px 30px; font-size: 18px; font-weight: 700; text-decoration: none;">Visit the class site →</a></p>'
+        -
+          align: top
+          dist: '12'
+          gutter: 0px
+          id: d121b1b8-fca7-4bb3-96ec-4bd2d401be08
+          moduleName: Sincerely
+          stylable: false
+          thumbnail: /assets/img/editor/grid_12.svg
+          title: Sincerely
+          type: grid-row
+          layout:
+            320px:
+              display: rows
+              padding-left: 10px
+              padding-right: 10px
+              width: 100%
+            default:
+              align: center
+              padding-bottom: 35px
+              padding-left: 30px
+              padding-right: 30px
+              padding-top: 25px
+              valign: top
+              width: 100%
+          content:
+            -
+              id: c2214d13-5031-4082-bc76-bf06248a9759
+              isEmpty: false
+              label: 'Drop content here'
+              stylable: false
+              title: column
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  padding-left: 0px
+                  padding-right: 0px
+                  valign: top
+              content:
+                -
+                  id: 41383a88-1eb7-4096-ad6a-e54bb69a396c
+                  stylable: false
+                  thumbnail: /assets/img/editor/element_text.svg
+                  title: Text
+                  type: text
+                  layout:
+                    320px:
+                      width: 100%
+                    default:
+                      align: left
+                      text-align: left
+                      text-valign: top
+                      valign: top
+                      width: 100%
+                  content: '<p>Can''t make it tomorrow? Just reply to this email and let us know — we''d love to see you next week.<br><br>See you tomorrow,</p><p style="margin: 10px 0 0;"><span style="font-family: Caprasimo, Helvetica, Arial, sans-serif; font-weight: 400; font-size: 24px; color: #9c5124;">Daniel Grothman</span><br><span style="color: #645c50; font-size: 16px;">The Inner Journey</span></p>'
+        -
+          align: top
+          dist: '12'
+          gutter: 0px
+          id: 8c759283-b6b2-4128-83ff-b1fc6d96313c
+          moduleName: Footer
+          stylable: false
+          thumbnail: /assets/img/editor/grid_12.svg
+          title: Footer
+          type: grid-row
+          layout:
+            320px:
+              display: rows
+              padding-left: 10px
+              padding-right: 10px
+              width: 100%
+            default:
+              align: center
+              background-color: '#7a8a5e'
+              full-width: true
+              padding-bottom: 30px
+              padding-left: 20px
+              padding-right: 20px
+              padding-top: 25px
+              valign: top
+              width: 100%
+          content:
+            -
+              id: 7f49661c-3ef4-419e-b731-360c6e4192c1
+              isEmpty: false
+              label: 'Drop content here'
+              stylable: false
+              title: column
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  padding-left: 0px
+                  padding-right: 0px
+                  valign: top
+              content:
+                -
+                  id: d3b8ff2e-be65-48c4-a174-6b3aa017e1f7
+                  stylable: false
+                  thumbnail: /assets/img/editor/element_text.svg
+                  title: Text
+                  type: text
+                  layout:
+                    320px:
+                      width: 100%
+                    default:
+                      align: center
+                      padding-top: 10px
+                      text-align: center
+                      text-valign: top
+                      valign: top
+                      width: 100%
+                  content: '<p style="margin: 0;"><span style="color: #f5ead8; font-size: 16px;">The Inner Journey · Finding Peace Within</span></p><div class="sib_class_16_white_reg_u" style="margin-top: 8px;"><a href="https://www.theinnerjourney.training"><span style="color:#ffffff;"><u>theinnerjourney.training</u></span></a><span style="color:#ffffff;"> &nbsp;·&nbsp; </span><a href="{{ unsubscribe }}"><span style="color:#ffffff;"><u>Unsubscribe</u></span></a></div>'
+media:
+  320px:
+    max-width: 600
+    min-width: 0
+styles:
+  default:
+    properties:
+      color: '#201E1D'
+      font-family: 'Figtree, Helvetica, Arial, sans-serif'
+      font-size: 20px
+      line-height: '1.45'
+    title: Paragpraph
+  default-button:
+    properties:
+      background-color: '#c67139'
+      border-color: '#c67139'
+      color: '#f5ead8'
+      width: 50%
+    title: 'Default button'
+  default-heading1:
+    properties:
+      color: '#201E1D'
+      font-family: 'Caprasimo, Helvetica, Arial, sans-serif'
+      font-size: 28px;
+      font-weight: 400
+      letter-spacing: normal
+    title: 'Heading 1'
+  default-heading2:
+    properties:
+      color: '#201E1D'
+      font-family: 'Caprasimo, Helvetica, Arial, sans-serif'
+      font-size: 32px
+    title: 'Heading 2'
+  default-heading3:
+    properties:
+      color: '#201E1D'
+      font-family: 'Caprasimo, Helvetica, Arial, sans-serif'
+      font-size: 24px
+    title: 'Heading 3'
+  default-heading4:
+    properties:
+      color: '#201E1D'
+      font-family: 'Caprasimo, Helvetica, Arial, sans-serif'
+      font-size: 18px
+    title: 'Heading 4'
+  default-link:
+    properties:
+      color: '#8c491a'
+      text-decoration: none
+    title: Link
+  sib_class_16_white_reg_u:
+    properties:
+      color: '#FFFFFF'
+      font-size: 16px
+      text-decoration: underline
+    title: '16 white underline'
+  sib_class_18_white_quicksand_m_up:
+    properties:
+      color: '#FFFFFF'
+      font-family: 'Caprasimo, Helvetica, Arial, sans-serif'
+      font-size: 18px
+      font-weight: '400'
+      letter-spacing: 0.02em
+      text-transform: uppercase
+    title: '18 white caprasimo uppercase'
+  sib_class_18_white_reg:
+    properties:
+      color: '#FFFFFF'
+      font-size: 18px
+    title: '18 white'
+  sib_class_20_black_b:
+    properties:
+      color: '#201E1D'
+      font-size: 20px
+      font-weight: '700'
+    title: '20 ink bold'
+  sib_class_20_black_reg:
+    properties:
+      color: '#201E1D'
+      font-size: 20px
+    title: '20 ink'
+  sib_class_20_darkblue_reg_u:
+    properties:
+      color: '#8c491a'
+      font-size: 20px
+      text-decoration: underline
+    title: '20 terracotta underline'
+  sib_class_26_black_quicksand_b:
+    properties:
+      color: '#201E1D'
+      font-family: 'Caprasimo, Helvetica, Arial, sans-serif'
+      font-size: 26px
+      font-weight: '400'
+      letter-spacing: normal
+    title: '26 ink caprasimo'
+  sib_class_32_black_mrdafoe_reg:
+    properties:
+      color: '#201E1D'
+      font-family: 'Caprasimo, Helvetica, Arial, sans-serif'
+      font-size: 32px
+    title: '32 ink caprasimo'
