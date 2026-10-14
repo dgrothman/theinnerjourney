@@ -18,6 +18,7 @@ export const AUDIO: AudioTerm[] = [
     term: 'Fall 2026',
     recordings: [
       { n: 1, title: 'Class 1', spotifyEpisode: '4AvEKJNOxCwejqLuFvIWq5' },
+      { n: 2, title: 'Class 2', spotifyEpisode: '4VqEEKqsg57SaGo5wMu7X1' },
     ],
   },
   {
