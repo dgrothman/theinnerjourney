@@ -143,3 +143,15 @@ table.grid td { height: 26px; }
 table.grid td:first-child { background: var(--sand); width: 42%; }
 table.grid th:not(:first-child), table.grid td:not(:first-child) { border-left: 1px solid var(--neutral-300); }
 table.grid .narrow { width: 0.45in; text-align: center; }
+
+/* Three-level group questions: <section class="levels"><div class="level start">…</div>…</section>
+   Each .level has <h3> (name), <p class="lv-sub"> (one-line description) and an <ol class="prompts">. */
+section.levels { display: grid; gap: 10px; margin-top: 8px; }
+.level { border-radius: 16px; padding: 12px 18px 6px; break-inside: avoid; }
+.level.start { background: #e6eadd; }
+.level.deeper { background: var(--terracotta-200); }
+.level.stretch { background: var(--sand); }
+.level h3 { margin: 0; font-size: 15pt; }
+.level .lv-sub { margin: 0 0 4px; font-size: 9pt; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: var(--terracotta-700); }
+.level ol.prompts { --write: 0.8in; margin-bottom: 0; }
+p.levels-intro { color: var(--neutral-700); margin: 0 0 4px; }

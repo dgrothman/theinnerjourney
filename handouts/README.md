@@ -27,4 +27,5 @@ Page size, margins, header (logo, title, page x / y) and footer come from `@page
 - Bullets: plain nested `<ul>`; numbered: `<ol>`.
 - Prompts with space to write: `<ol class="prompts" style="--write: 0.9in">`.
 - Tables: `<table>` with `<th>` header row; fill-in grids add `class="grid"`.
+- Three-level group questions: `<section class="levels">` with `<div class="level start|deeper|stretch">` blocks (h3, `p.lv-sub`, `ol.prompts`). See class-3.html.
 - Page break: `<div class="page"></div>`.
