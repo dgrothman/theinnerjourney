@@ -21,7 +21,7 @@ export const CLASSES: Session[] = [
   },
   {
     n: 2,
-    title: 'Reality',
+    title: 'Reality & Feelings',
     topic: 'reality',
     summary: 'What your reality is made of and why it shapes how you interpret life, including the feelings that are part of it, and the True, Not True, or Questionable tool for sorting what is real.',
     reading: ['difficulty-owning-our-reality', 'tools-to-own-your-reality', 'why-we-are-afraid-to-tell-people-who-we-are',
