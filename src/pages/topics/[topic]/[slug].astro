@@ -28,6 +28,12 @@ const taught = CLASSES.filter((c) => c.reading.includes(slug) && c.topic === top
         <a class="pill" href={`/topics/${topic.id}/`}>{topic.name} · {article.data.group}</a>
         {taught.map((c) => <a class="pill" href={`/class/${c.n}/`}>Class {c.n}</a>)}
       </div>
+      {article.data.video && (
+        <figure class="video" data-pagefind-ignore>
+          <iframe src={`https://www.youtube-nocookie.com/embed/${article.data.video}`} title={article.data.videoTitle ?? article.data.title} loading="lazy" allow="encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe>
+          <figcaption>{article.data.videoTitle} · <a href={`https://youtu.be/${article.data.video}`}>Open on YouTube</a> · New to the Color Code? <a href="https://youtu.be/T-MHJyxj2II">Watch the overview</a></figcaption>
+        </figure>
+      )}
       <div class="prose"><Content /></div>
       <nav class="pager" aria-label={`More in ${topic.name}`} data-pagefind-ignore>
         {prev ? <a href={articleUrl(prev)}><small>← Previous</small><b>{prev.data.title}</b></a> : <a href={`/topics/${topic.id}/`}><small>← Back to</small><b>{topic.name}</b></a>}

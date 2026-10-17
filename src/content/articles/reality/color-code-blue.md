@@ -2,8 +2,12 @@
 title: "Color Code: Blue"
 topic: reality
 group: "Safe people"
+video: "rHTcrtl8GV4"
+videoTitle: "Understanding the BLUE Personality (Dr. Taylor Hartman)"
 order: 2
 ---
+
+**Driven by feelings and connection · Empath**
 
 ## Strengths
 **As an individual**

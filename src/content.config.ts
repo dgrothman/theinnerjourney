@@ -11,6 +11,9 @@ const articles = defineCollection({
     group: z.string(),
     order: z.number(),
     summary: z.string().optional(),
+    /** YouTube video id shown at the top of the article. */
+    video: z.string().optional(),
+    videoTitle: z.string().optional(),
   }),
 });
 

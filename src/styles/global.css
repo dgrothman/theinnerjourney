@@ -296,3 +296,8 @@ a:focus-visible, button:focus-visible, input:focus-visible, summary:focus-visibl
 .join-status { margin-top: 6px; font-weight: 600; color: var(--sage-700); }
 .join-status[data-ok="false"] { color: var(--terra-700); }
 .join .btn:disabled { opacity: .6; cursor: progress; }
+
+/* article video */
+figure.video { margin: 28px 0 0; }
+figure.video iframe { width: 100%; aspect-ratio: 16 / 9; border: 0; border-radius: var(--r-md); background: var(--surface); }
+figure.video figcaption { margin-top: 8px; font-size: 14px; color: var(--muted); }

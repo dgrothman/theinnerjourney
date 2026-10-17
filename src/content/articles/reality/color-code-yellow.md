@@ -2,11 +2,15 @@
 title: "Color Code: Yellow"
 topic: reality
 group: "Safe people"
+video: "t_VE06O6Aro"
+videoTitle: "Understanding the YELLOW Personality (Dr. Taylor Hartman)"
 order: 5
 ---
 
+**Driven by fun and enjoyment**
+
 ## Strengths
-**As an indiviudal**
+**As an individual**
 
 * Highly optimistic (rarely depressed)
 * Likes self and accepts others easily
@@ -27,7 +31,7 @@ order: 5
 * Unwilling to experience pain in order to produce quality
 * Undisciplined
 * Loud and obnoxious in public places
-* Exaggerates successes and omits unpleasant trusts
+* Exaggerates successes and omits unpleasant truths
 * Unable to confront or face issues
 
 ## Developing Positive Connections with Yellow

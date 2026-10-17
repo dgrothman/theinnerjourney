@@ -2,8 +2,12 @@
 title: "Color Code: Red"
 topic: reality
 group: "Safe people"
+video: "C-h4jt1L35I"
+videoTitle: "Understanding the RED Personality (Dr. Taylor Hartman)"
 order: 3
 ---
+
+**Driven by action and goals · Results-oriented**
 
 ## Strengths
 **As an individual**
@@ -22,12 +26,12 @@ order: 3
 * Generally seeks to serve self (what’s in it for me)
 * Promotes turmoil and conflict when a personal goal is to be gained
 * Out of touch with own feelings
-* Renationalizes and denies own failings
+* Rationalizes and denies own failings
 * Always right
 * Cannot relax and feel comfortable unless producing something
-* Often arrogant and defiant or authority
+* Often arrogant and defiant of authority
 * Inconsiderate of other’s feelings (selfish)
-* Inpatient with others
+* Impatient with others
 
 ## Developing Positive Connections with Red
 **Do's**

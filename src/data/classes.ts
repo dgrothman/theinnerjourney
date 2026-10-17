@@ -14,21 +14,18 @@ export interface Session {
 export const CLASSES: Session[] = [
   {
     n: 1,
-    title: 'Safe People & Feelings',
+    title: 'Safe People & the Color Code',
     topic: 'reality',
-    summary: 'What makes a person safe, how to recognize one, and the four Color Code personalities. Then a first look at what our feelings are telling us.',
-    reading: [
-      'safe-people-are', 'color-code-blue', 'color-code-red', 'color-code-white', 'color-code-yellow',
-      'what-generates-feelings', 'feelings-chart', 'automatic-negative-thoughts', 'five-truths-about-fear',
-      'how-to-handle-anger', 'letting-go-of-guilt', 'healing-wounds-of-shame', 'stopping-our-pain',
-    ],
+    summary: 'What makes a person safe and how to recognize one, then the four Color Code personalities: what drives each one, and how understanding them helps us take things less personally.',
+    reading: ['safe-people-are', 'color-code-blue', 'color-code-red', 'color-code-white', 'color-code-yellow'],
   },
   {
     n: 2,
     title: 'Reality',
     topic: 'reality',
-    summary: 'What your reality is made of and why it shapes how you interpret life. We also look at how we use negative control to change another person’s reality, or let them control ours.',
-    reading: ['difficulty-owning-our-reality', 'negative-and-positive-control', 'tools-to-own-your-reality', 'why-we-are-afraid-to-tell-people-who-we-are'],
+    summary: 'What your reality is made of and why it shapes how you interpret life, including the feelings that are part of it, and the True, Not True, or Questionable tool for sorting what is real.',
+    reading: ['difficulty-owning-our-reality', 'tools-to-own-your-reality', 'why-we-are-afraid-to-tell-people-who-we-are',
+      'what-generates-feelings', 'feelings-chart', 'five-truths-about-fear', 'how-to-handle-anger', 'letting-go-of-guilt', 'healing-wounds-of-shame', 'stopping-our-pain'],
   },
   {
     n: 3,

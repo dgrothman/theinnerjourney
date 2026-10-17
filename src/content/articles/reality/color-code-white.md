@@ -2,8 +2,12 @@
 title: "Color Code: White"
 topic: reality
 group: "Safe people"
+video: "Ds7I8wZ-fBw"
+videoTitle: "Understanding the WHITE Personality (Dr. Taylor Hartman)"
 order: 4
 ---
+
+**Driven by peace · Wallflower**
 
 ## Strengths
 **As an individual**
