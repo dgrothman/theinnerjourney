@@ -19,6 +19,7 @@ export const AUDIO: AudioTerm[] = [
     recordings: [
       { n: 1, title: 'Class 1', spotifyEpisode: '4AvEKJNOxCwejqLuFvIWq5' },
       { n: 2, title: 'Class 2', spotifyEpisode: '4VqEEKqsg57SaGo5wMu7X1' },
+      { n: 3, title: 'Class 3', spotifyEpisode: '2nNeLU4syA09bn1PK1gek7' },
     ],
   },
   {
