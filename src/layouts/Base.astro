@@ -10,7 +10,7 @@ interface Props {
   /** Include this page's main content in site search. */
   searchable?: boolean;
 }
-const { title, description = 'A free six-week class on the five core symptoms from Facing Codependence. Finding peace within.', searchable = false } = Astro.props;
+const { title, description = 'A free six-week class on the five core symptoms of complex trauma, drawn from Facing Codependence. Finding peace within.', searchable = false } = Astro.props;
 const fullTitle = title ? `${title} · ${SITE.name}` : `${SITE.name} · ${SITE.tagline}`;
 const canonical = new URL(Astro.url.pathname, Astro.site);
 ---

@@ -5,7 +5,7 @@ group: "Owning your reality"
 order: 7
 ---
 
-Our frustration and confusion as codependents stem primarily from our
+Our frustration and confusion as people with complex trauma stem primarily from our
 attempts to control the reality of other people and from letting their reality
 control us... A person’s reality is made up of the body, thinking, feelings,
 and behavior. 

@@ -20,8 +20,8 @@ They allow others to take advantage of them physically, sexually, emotionally, o
 without clear knowledge that they have the right to say, "Stop that, I don't want to be touched" or
 "I am not responsible for your feelings, thoughts, or behavior".
 
-A codependent with No boundaries not only lacks protection but has not ability to recognize
-another person's right to have boundaries with the codependent. Therefore, they
+A person with complex trauma and No boundaries not only lacks protection but has not ability to recognize
+another person's right to have boundaries with them. Therefore, they
 move through other peoples boundaries unaware that they are doing something inappropriate.
 Life crashes in doesn't know own Reality. Victim/Abuser/Rescuer
 
@@ -55,6 +55,6 @@ right over the answer.
 It is also quite common for a person to move from one kind of wall to another, **switching from anger to fear, words,
 or silence at any time**, though always remaining invulnerable behind the walls. After a period of loneliness they may
 venture out get pinged and quickly retreat back. The sad thing about walls is that although they give
-solid protection, they do not allow for intimacy and leave the codependent even more isolated and lonely.
+solid protection, they do not allow for intimacy and leave the person even more isolated and lonely.
 
-From **_Facing Codependense_**, by Pia Mellody
+Adapted from **_Facing Codependence_**, by Pia Mellody

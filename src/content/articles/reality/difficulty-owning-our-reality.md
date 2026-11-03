@@ -5,7 +5,7 @@ group: "Owning your reality"
 order: 6
 ---
 
-Difficulty owning your own "reality" means you have difficulty experiencing who you are and sharing that with other people. Codependents often report that they don't know who they are. 
+Difficulty owning your own "reality" means you have difficulty experiencing who you are and sharing that with other people. People with complex trauma often report that they don't know who they are. 
 **To experience ourselves, we have to be able to be aware of and acknowledge our reality**. Our reality has four components:
 
 1. **Our Body** - how we look and how our bodies are operating.
@@ -16,14 +16,14 @@ Difficulty owning your own "reality" means you have difficulty experiencing who 
 When we are experiencing our bodies, our throughts, our emotions, or our behavior, they make up what is real from our perspective, even if they are not what others would exerience in
 the same situation. So these things are what make each person uniquely who he or she is, and are the "reality" of the person experiencing them.
 
-Codependents have trouble owning all or some parts of these components in the following ways:
+People with complex trauma have trouble owning all or some parts of these components in the following ways:
 
 * **The Body** - Difficulty "seeing" our appearance accurately or being aware of how our bodies are operating
 * **Thinking** - Difficulty knowing what our thoughts are, and if we know, not being able to share them. Also, give **skewed interpretations to incoming data.**
 * **Feelings** - Difficulty knowing what we are feeling, or **feeling overwhelming emotions**
 * **Behavior** - Difficulty being aware of what we do or don't do, or, if we are aware, **difficulty owning our behavior** and its impact on others
 
-*From **Facing Codependence** by Pia Mellody, Andrea Miller, & J. Keith Miller*
+*Adapted from **Facing Codependence** by Pia Mellody, Andrea Miller, & J. Keith Miller*
 
 | Not Knowing Your Reality | ![greybar](/images/greybar.gif) | Knowing Your Reality |
 |-|-|-|

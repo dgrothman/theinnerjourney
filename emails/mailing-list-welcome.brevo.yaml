@@ -249,7 +249,7 @@ body:
                       text-valign: top
                       valign: top
                       width: 100%
-                  content: '<p>Thank you for signing up. We''ll email you a few times a year, when new class dates are set, so you can save a seat before it fills up. Nothing more.<br><br><strong><span style="color: #9c5124;">The Inner Journey</span></strong> is a free six-week class built on the five core symptoms from <em>Facing Codependence</em> by Pia Mellody. Each evening has an hour of teaching and an hour in small groups. There''s nothing to prepare, and you can share as much or as little as you like.</p>'
+                  content: '<p>Thank you for signing up. We''ll email you a few times a year, when new class dates are set, so you can save a seat before it fills up. Nothing more.<br><br><strong><span style="color: #9c5124;">The Inner Journey</span></strong> is a free six-week class built on the five core symptoms of complex trauma, drawn from <em>Facing Codependence</em> by Pia Mellody. Each evening has an hour of teaching and an hour in small groups. There''s nothing to prepare, and you can share as much or as little as you like.</p>'
         -
           align: top
           dist: 4-4-4

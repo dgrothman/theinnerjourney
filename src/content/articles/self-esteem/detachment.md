@@ -5,7 +5,7 @@ group: "Relationships"
 order: 4
 ---
 
-#### From _Facing Love Addiction_ by Pia Mellody
+#### Adapted from _Facing Love Addiction_ by Pia Mellody
 
 ### Practice "the three gets" from Al-Anon:
 1. **Get off your partner's back**
@@ -18,7 +18,7 @@ to him or her, offering a "suggestion" or solution, asking you partner to change
 partner's life. Getting out of the way of the other person means to try and give helpful advice or negative comments, not
 to help the other person avoid catastrophe, but also not to create a catastrophe. Make all of your partner's observed behavior
 none of your business
-3. **Get on with your life** means to get into recovery from any addictions you have and from codependency. Most of all, 
+3. **Get on with your life** means to get into recovery from any addictions you have and from complex trauma. Most of all, 
 for Love Addicts getting on with your life means to learn how to take care of your needs and wants yourself, to take adult
 responsibility for your own care, and to stop trying to get somebody else to do it for you. Also learn to focus on how to
 value yourself, how to set your boundaries, and how to own your own reality.

@@ -11,7 +11,7 @@ is part of us and what is not a part of us, what we will
 allow and what we won't, what we will choose to do
 and what we will choose not to do.
 
-Boundary systems (according to Pia Mellody in her book _Facing Codependense_)
+Boundary systems (according to Pia Mellody in her book _Facing Codependence_)
 are invisible and symbolic "fences" that have three purposes:
 (1) to keep people from coming into our space and abusing us,
 (2) to keep us from going into the space of others and abusing them and

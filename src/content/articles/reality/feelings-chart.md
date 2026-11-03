@@ -5,7 +5,7 @@ group: "Feelings"
 order: 11
 ---
 
-*According to Pia Mellody's **Facing Codependency***
+*According to Pia Mellody's **Facing Codependence***
 
 #### Thoughts
 - the brain assigning meaning to incoming data

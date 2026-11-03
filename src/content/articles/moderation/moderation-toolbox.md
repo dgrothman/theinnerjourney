@@ -7,7 +7,7 @@ order: 4
 
 #### Be moderate with your reality
 This involves all of the core issues and requires discipline and focus. It is a
-**centering** process and requires self-control. Codependents think, feel, and 
+**centering** process and requires self-control. People with complex trauma think, feel, and 
 act in the extreme, and they present their bodies in the extreme.
 
 Focus on the area of your reality you are presenting in the extreme and bring it into moderation

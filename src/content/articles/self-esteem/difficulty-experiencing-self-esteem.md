@@ -5,7 +5,7 @@ group: "Understanding self esteem"
 order: 1
 ---
 
-#### From _Facing Codependence_ by Pia Mellody, Andrea Miller & J. Keith Miller
+#### Adapted from _Facing Codependence_ by Pia Mellody, Andrea Miller & J. Keith Miller
 
 **Healty self-esteem** is the internal experience of one's own preciousness and value as a person. It
 comes from inside a person and moves outward into relationships. Healthy people know that they are valuable 
@@ -13,7 +13,7 @@ and precious even when they make a mistake, are confronted by an angry person, a
 rejected by a lover, friend, parent, child, or boss. Healthy individuals may feel other emotions, such as guilt, 
 fear, anger, and pain in these circumstances, but the sense of self-esteem remains intact.
 
-Codependents experience difficulty with self-esteem at one or both extremes. At one extreme self-esteem is low or
+People with complex trauma experience difficulty with self-esteem at one or both extremes. At one extreme self-esteem is low or
 nonexistent: you think that you are worth less than others. At the opposite extreme is arrogance and grandiosity: you
 think you are set apart and superior to other people.
 
@@ -26,7 +26,7 @@ its children to find fault with others. The children thus learn to regard others
 some dysfunctional family systems actually teach their children that they are superior to other people, giving
 them a false sense of power. Such children are treated by the family as if they can do no wrong.
 
-If codependents have any kind of esteem, it is not self-esteem but other-esteem. This is based on external things such as
+If people with complex trauma have any kind of esteem, it is not self-esteem but other-esteem. This is based on external things such as
 how they look, how much money they make, why they know, what kind of car they drive, what kind of job they have, how well
 their children perform, how powerful and important or attractive their spouse is, the degrees they have earned, and how well
 they perform at activities in which others value excellence. Other-esteem is based on either one's "human doing" or in the

@@ -5,7 +5,7 @@ group: "Needs and wants"
 order: 1
 ---
 
-#### From _Facing Codependence_ by Pia Mellody, Andrea Miller, & J. Keith Miller
+#### Adapted from _Facing Codependence_ by Pia Mellody, Andrea Miller, & J. Keith Miller
 
 Each of us has basic needs and individual wants that are our responsibility to satisfy.
 Needs are the things we must have to survive. All people have dependency needs, children as
@@ -50,5 +50,5 @@ Not tending to one's needs and wants appropriately is often connected to a feeli
 self-esteem (shame). Whenever the "adult child" feels needy or has a want shame flares at the
 onset of the experience of needing or wanting. This shame originally came from childhood
 experiences, when expressing a need or want was met with abuse by a caregiver - even though
-that memory of abuse has long been "forgotten," is no longer conscious. The adult codependent
+that memory of abuse has long been "forgotten," is no longer conscious. An adult with complex trauma
 feels as if he or she is terribly selfish to need or want something, however legitimate it may be.
