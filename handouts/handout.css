@@ -27,7 +27,7 @@
   margin: 0.85in 0.75in 0.65in;
   @top-left { content: "The Inner Journey"; font-family: Caprasimo; font-size: 12pt; color: #201e1d; padding-left: 27px; background: url("logo-small.svg") no-repeat left 0 bottom 6px / 20px 20px; vertical-align: bottom; margin-bottom: 0.35in; padding-bottom: 6px; border-bottom: 1px solid #dcd3c4; }
   @top-right { content: var(--running) " · " counter(page) " / " counter(pages); font-family: Figtree; font-size: 9pt; color: #645c50; vertical-align: bottom; margin-bottom: 0.35in; padding-bottom: 8px; border-bottom: 1px solid #dcd3c4; }
-  @bottom-left { content: "theinnerjourney.training"; font-family: Figtree; font-weight: 600; font-size: 9.5pt; color: #8c491a; vertical-align: bottom; padding-bottom: 0.2in; }
+  @bottom-left { content: "Website: theinnerjourney.training"; font-family: Figtree; font-weight: 600; font-size: 9.5pt; color: #8c491a; vertical-align: bottom; padding-bottom: 0.2in; }
   @bottom-right { content: "dgrothman@gmail.com"; font-family: Figtree; font-size: 9.5pt; color: #645c50; vertical-align: bottom; padding-bottom: 0.2in; }
 }
 
@@ -63,12 +63,21 @@ body {
   background: var(--terracotta-200);
 }
 .cover .mark { position: relative; z-index: 1; flex: none; width: 54px; height: 54px; }
-.cover .text { position: relative; z-index: 1; }
+.cover .text { position: relative; z-index: 1; flex: 1; min-width: 0; }
 .cover .kicker {
   font-size: 9.5pt; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase;
   color: var(--terracotta-700); margin-bottom: 2px;
 }
 .cover h1 { margin: 0; font-size: 28pt; line-height: 1.05; }
+.cover .site {
+  position: relative; z-index: 1; margin-left: auto; flex: none;
+  display: flex; flex-direction: column; align-items: center; gap: 3px;
+  background: #fff; border-radius: 12px; padding: 7px 9px 6px;
+  font-size: 7.5pt; line-height: 1.25; text-align: center; color: var(--neutral-700); text-decoration: none; white-space: nowrap;
+}
+.cover .site img { width: 0.62in; height: 0.62in; display: block; }
+.cover .site b { display: block; font-size: 7.5pt; color: var(--terracotta-700); }
+.cover .site .url { font-weight: 700; color: var(--ink); }
 .cover .badge {
   position: relative; z-index: 1; margin-left: auto;
   background: #fff; color: var(--terracotta-700);

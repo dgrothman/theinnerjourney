@@ -53,7 +53,7 @@ export const TOPICS: Topic[] = [
   {
     id: 'self-esteem',
     name: 'Self Esteem',
-    short: 'Keeping your value within yourself. Includes the drama triangle.',
+    short: 'Keeping your value within yourself.',
     intro: 'Self esteem is the sense of value we all strive for. We look at keeping it within ourselves, and noticing when we have placed it in others.',
     groups: [
       { name: 'Understanding self esteem', blurb: 'What healthy self esteem looks like and where issues come from.' },

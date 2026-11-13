@@ -24,7 +24,6 @@ export const RESOURCES: Resource[] = [
   { title: 'Change Your Brain, Change Your Life', by: 'Daniel Amen', topics: ['reality'] },
   { title: 'Boundaries', by: 'Drs. Henry Cloud & John Townsend', topics: ['boundaries'] },
   { title: 'Searching for Significance', by: 'Robert S. McGee', topics: ['self-esteem'] },
-  { title: 'The Power of TED', by: 'David Emerald', topics: ['self-esteem'] },
 ];
 
 export const resourcesFor = (topic: TopicId | 'general') => RESOURCES.filter((r) => r.topics.includes(topic));

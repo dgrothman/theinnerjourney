@@ -50,9 +50,9 @@ export const CLASSES: Session[] = [
   },
   {
     n: 6,
-    title: 'Self Esteem & the Drama Triangle',
+    title: 'Self Esteem & Bringing It Together',
     topic: 'self-esteem',
-    summary: 'Where our sense of value comes from, how to keep it within ourselves, and how the drama triangle pulls us into trying to control others.',
+    summary: 'Where our sense of value comes from and how to keep it within ourselves, then a look back at all six weeks with exercises to carry the work forward.',
     reading: ['difficulty-experiencing-self-esteem', 'where-self-esteem-issues-come-from', 'healthy', 'detachment', 'guidelines-for-relationships'],
   },
 ];
